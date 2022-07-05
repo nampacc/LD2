@@ -6908,3 +6908,15 @@ Script Stack (0 frames):
 [2022.07.05-21.50.02:494][679]LogSavePackage: Moving '../../../../../../Users/ngiammarinaro/Documents/GitHub/LD2/LevelDesign2/Saved/Enemy_aiF0B81BED4E086AC7F70136BDB34D95B0.tmp' to '../../../../../../Users/ngiammarinaro/Documents/GitHub/LD2/LevelDesign2/Content/FirstPersonBP/EnemyAI/Enemy_ai.uasset'
 [2022.07.05-21.50.02:512][679]AssetCheck: New page: Asset Save: Enemy_ai
 [2022.07.05-21.50.02:512][679]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/EnemyAI/Enemy_ai.Enemy_ai
+[2022.07.05-21.50.17:916][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/EnemyAI/Enemy_ai" FILE="../../../../../../Users/ngiammarinaro/Documents/GitHub/LD2/LevelDesign2/Content/FirstPersonBP/EnemyAI/Enemy_ai.uasset" SILENT=true
+[2022.07.05-21.50.17:955][ 41]LogSavePackage: Moving '../../../../../../Users/ngiammarinaro/Documents/GitHub/LD2/LevelDesign2/Saved/Enemy_aiB056F9FE4413E35DF1E007ABB19731FB.tmp' to '../../../../../../Users/ngiammarinaro/Documents/GitHub/LD2/LevelDesign2/Content/FirstPersonBP/EnemyAI/Enemy_ai.uasset'
+[2022.07.05-21.50.17:982][ 41]AssetCheck: New page: Asset Save: Enemy_ai
+[2022.07.05-21.50.17:982][ 41]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/EnemyAI/Enemy_ai.Enemy_ai
+[2022.07.05-21.50.18:700][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/EnemyAI/Enemy_ai" FILE="../../../../../../Users/ngiammarinaro/Documents/GitHub/LD2/LevelDesign2/Content/FirstPersonBP/EnemyAI/Enemy_ai.uasset" SILENT=true
+[2022.07.05-21.50.18:741][123]LogSavePackage: Moving '../../../../../../Users/ngiammarinaro/Documents/GitHub/LD2/LevelDesign2/Saved/Enemy_aiE61780854B723BE23530C7A59C507C3C.tmp' to '../../../../../../Users/ngiammarinaro/Documents/GitHub/LD2/LevelDesign2/Content/FirstPersonBP/EnemyAI/Enemy_ai.uasset'
+[2022.07.05-21.50.18:763][123]AssetCheck: New page: Asset Save: Enemy_ai
+[2022.07.05-21.50.18:763][123]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/EnemyAI/Enemy_ai.Enemy_ai
+[2022.07.05-21.50.20:394][299]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2022.07.05-21.50.20:415][299]LogSavePackage: Moving '../../../../../../Users/ngiammarinaro/Documents/GitHub/LD2/LevelDesign2/Saved/TestMapFE6F4E05414D1E1D9C3E09AA396A0219.tmp' to '../../../../../../Users/ngiammarinaro/Documents/GitHub/LD2/LevelDesign2/Content/FirstPersonBP/Maps/TestMap.umap'
+[2022.07.05-21.50.20:432][299]AssetCheck: New page: Asset Save: TestMap
+[2022.07.05-21.50.20:432][299]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/TestMap.TestMap
