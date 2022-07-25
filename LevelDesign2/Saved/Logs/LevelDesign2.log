@@ -13169,3 +13169,105 @@ Script call stack:
 [2022.07.25-11.04.13:392][916]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2022.07.25-11.04.13:407][916]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
 [2022.07.25-11.04.13:447][917]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2022.07.25-11.05.02:627][802]LogEditorViewport: Clicking on Actor (LMB): LampPickup_C (LampPickup)
+[2022.07.25-11.05.04:074][943]Cmd: DUPLICATE
+[2022.07.25-11.05.04:074][943]Cmd: ACTOR DUPLICATE
+[2022.07.25-11.05.08:418][373]LogEditorViewport: Clicking on Actor (LMB): DeskPickup_C (DeskPickup)
+[2022.07.25-11.05.09:249][443]Cmd: DUPLICATE
+[2022.07.25-11.05.09:249][443]Cmd: ACTOR DUPLICATE
+[2022.07.25-11.05.12:571][763]LogEditorViewport: Clicking on Actor (LMB): ChairPickUp_C (ChairPickUp)
+[2022.07.25-11.05.12:831][779]Cmd: DUPLICATE
+[2022.07.25-11.05.12:831][779]Cmd: ACTOR DUPLICATE
+[2022.07.25-11.05.45:035][586]LogEditorViewport: Clicking on Actor (LMB): LampPickup_C (LampPickup2)
+[2022.07.25-11.06.07:615][530]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.07.25-11.06.10:887][820]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.07.25-11.06.11:495][865]LogEditorViewport: Clicking on Actor (LMB): LampPickup_C (LampPickup2)
+[2022.07.25-11.06.25:414][155]LogEditorViewport: Clicking on Actor (LMB): DeskPickup_C (DeskPickup2)
+[2022.07.25-11.06.49:179][133]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.07.25-11.06.49:199][133]LogSavePackage: Moving '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Saved/FirstPersonExampleMapECF379544D230EF65CBDA787757ECE93.tmp' to '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.07.25-11.06.49:218][133]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.07.25-11.06.49:218][133]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.07.25-11.06.50:677][283]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.25-11.06.50:681][283]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.25-11.06.50:681][283]PIE: New page: PIE session: FirstPersonExampleMap (Jul 24, 2022, 9:06:50 PM)
+[2022.07.25-11.06.50:721][283]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.07.25-11.06.50:730][283]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008328s)
+[2022.07.25-11.06.50:730][283]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.07.25-11.06.50:731][283]LogPlayLevel: PIE: World Init took: (0.000804s)
+[2022.07.25-11.06.50:731][283]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.009266s)
+[2022.07.25-11.06.50:763][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.07.25-11.06.50:763][283]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2022.07.25-11.06.50:763][283]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.25-11.06.50:763][283]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.25-11.06.50:763][283]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.25-11.06.50:763][283]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.25-11.06.50:763][283]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.25-11.06.50:763][283]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.25-11.06.50:763][283]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.25-11.06.50:763][283]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.25-11.06.50:763][283]LogAudio: Display: Using built-in audio occlusion.
+[2022.07.25-11.06.50:763][283]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.25-11.06.50:767][283]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.25-11.06.50:767][283]LogAudioMixer: Display: 1: FrontRight
+[2022.07.25-11.06.50:767][283]LogAudioMixer: Display: 2: FrontCenter
+[2022.07.25-11.06.50:767][283]LogAudioMixer: Display: 3: LowFrequency
+[2022.07.25-11.06.50:767][283]LogAudioMixer: Display: 4: BackLeft
+[2022.07.25-11.06.50:767][283]LogAudioMixer: Display: 5: BackRight
+[2022.07.25-11.06.50:767][283]LogAudioMixer: Display: 6: SideLeft
+[2022.07.25-11.06.50:767][283]LogAudioMixer: Display: 7: SideRight
+[2022.07.25-11.06.50:777][283]LogAudioMixer: Display: Using Audio Device Speakers (Logitech PRO X Wireless Gaming Headset)
+[2022.07.25-11.06.50:777][283]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.25-11.06.50:777][283]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.25-11.06.50:777][283]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.25-11.06.50:777][283]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.25-11.06.50:777][283]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.25-11.06.50:777][283]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.07.25-11.06.50:778][283]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.25-11.06.50:778][283]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.25-11.06.50:778][283]LogInit: FAudioDevice initialized.
+[2022.07.25-11.06.50:778][283]LogAudio: Display: Audio Device (ID: 26) registered with world 'FirstPersonExampleMap'.
+[2022.07.25-11.06.50:792][283]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.07.25-11.06.50:793][283]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.07.25-04.06.50
+[2022.07.25-11.06.50:793][283]LogWorld: Bringing up level for play took: 0.001183
+[2022.07.25-11.06.50:794][283]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2022.07.25-11.06.50:810][283]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] 2
+[2022.07.25-11.06.50:810][283]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] LampPiecesLeft
+[2022.07.25-11.06.50:810][283]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] 2
+[2022.07.25-11.06.50:810][283]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] ChairPiecesLeft:
+[2022.07.25-11.06.50:810][283]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] 2
+[2022.07.25-11.06.50:810][283]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] DeskPiecesLeft:
+[2022.07.25-11.06.50:810][283]PIE: Server logged in
+[2022.07.25-11.06.50:811][283]PIE: Play in editor total start time 0.13 seconds.
+[2022.07.25-11.06.53:879][600]LogBlueprintUserMessages: [LampPickup_2] interacted
+[2022.07.25-11.06.53:880][600]LogBlueprintUserMessages: [LampPickup_2] Editing Values now that you have picked it up
+[2022.07.25-11.06.53:880][600]LogBlueprintUserMessages: [LampPickup_2] CarryCapReduced
+[2022.07.25-11.06.53:880][600]LogBlueprintUserMessages: [LampPickup_2] LampPiecesLeftReduced
+[2022.07.25-11.06.55:162][737]LogBlueprintUserMessages: [LampPickup2] interacted
+[2022.07.25-11.06.55:163][737]LogBlueprintUserMessages: [LampPickup2] Editing Values now that you have picked it up
+[2022.07.25-11.06.55:163][737]LogBlueprintUserMessages: [LampPickup2] CarryCapReduced
+[2022.07.25-11.06.55:163][737]LogBlueprintUserMessages: [LampPickup2] LampPiecesLeftReduced
+[2022.07.25-11.06.58:543][ 99]LogBlueprintUserMessages: [LampConstruction_8] you have recieved lamp
+[2022.07.25-11.07.00:181][271]LogBlueprintUserMessages: [ChairPickUp_2] interacted
+[2022.07.25-11.07.00:181][271]LogBlueprintUserMessages: [ChairPickUp_2] Editing Values now that you have picked it up
+[2022.07.25-11.07.00:181][271]LogBlueprintUserMessages: [ChairPickUp_2] CarryCapReduced
+[2022.07.25-11.07.00:181][271]LogBlueprintUserMessages: [ChairPickUp_2] ChairPiecesLeftReduced
+[2022.07.25-11.07.01:213][377]LogBlueprintUserMessages: [ChairPickUp2] interacted
+[2022.07.25-11.07.01:359][393]LogBlueprintUserMessages: [ChairPickUp2] interacted
+[2022.07.25-11.07.01:517][409]LogBlueprintUserMessages: [ChairPickUp2] interacted
+[2022.07.25-11.07.01:668][425]LogBlueprintUserMessages: [ChairPickUp2] interacted
+[2022.07.25-11.07.01:828][442]LogBlueprintUserMessages: [ChairPickUp2] interacted
+[2022.07.25-11.07.01:974][457]LogBlueprintUserMessages: [ChairPickUp2] interacted
+[2022.07.25-11.07.06:435][932]LogBlueprintUserMessages: [ChairConstruction_2] You did not get all chair pieces
+[2022.07.25-11.07.15:082][810]LogBlueprintUserMessages: [DeskConstruction_2] You did not get all desk pieces
+[2022.07.25-11.07.24:956][875]LogBlueprintUserMessages: [DeskConstruction_2] You did not get all desk pieces
+[2022.07.25-11.07.25:742][957]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-11.07.25:742][957]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.07.25-11.07.25:742][957]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-11.07.25:743][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-11.07.25:758][957]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.25-11.07.25:764][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-11.07.25:794][957]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-11.07.25:795][957]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-11.07.25:795][957]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-11.07.25:810][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.07.25-11.07.25:859][958]LogPlayLevel: Display: Destroying online subsystem :Context_46
