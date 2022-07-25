@@ -12658,3 +12658,514 @@ Script call stack:
 [2022.07.25-10.47.06:367][510]LogSavePackage: Moving '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Saved/LampConstructionD35F79544B64BF9FBB0E2AB60C0889FE.tmp' to '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Content/FirstPersonBP/Blueprints/LampConstruction.uasset'
 [2022.07.25-10.47.06:377][510]AssetCheck: New page: Asset Save: LampConstruction
 [2022.07.25-10.47.06:377][510]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/LampConstruction.LampConstruction
+[2022.07.25-10.50.12:282][934]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.25-10.50.12:286][934]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.25-10.50.12:286][934]PIE: New page: PIE session: FirstPersonExampleMap (Jul 24, 2022, 8:50:12 PM)
+[2022.07.25-10.50.12:286][934]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.07.25-10.50.12:295][934]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008845s)
+[2022.07.25-10.50.12:296][934]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.07.25-10.50.12:296][934]LogPlayLevel: PIE: World Init took: (0.000977s)
+[2022.07.25-10.50.12:296][934]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.009928s)
+[2022.07.25-10.50.12:332][934]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.07.25-10.50.12:334][934]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2022.07.25-10.50.12:334][934]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.25-10.50.12:334][934]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.25-10.50.12:334][934]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.25-10.50.12:334][934]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.25-10.50.12:334][934]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.25-10.50.12:334][934]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.25-10.50.12:334][934]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.25-10.50.12:334][934]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.25-10.50.12:335][934]LogAudio: Display: Using built-in audio occlusion.
+[2022.07.25-10.50.12:335][934]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.25-10.50.12:338][934]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.25-10.50.12:338][934]LogAudioMixer: Display: 1: FrontRight
+[2022.07.25-10.50.12:338][934]LogAudioMixer: Display: 2: FrontCenter
+[2022.07.25-10.50.12:338][934]LogAudioMixer: Display: 3: LowFrequency
+[2022.07.25-10.50.12:338][934]LogAudioMixer: Display: 4: BackLeft
+[2022.07.25-10.50.12:338][934]LogAudioMixer: Display: 5: BackRight
+[2022.07.25-10.50.12:338][934]LogAudioMixer: Display: 6: SideLeft
+[2022.07.25-10.50.12:338][934]LogAudioMixer: Display: 7: SideRight
+[2022.07.25-10.50.12:349][934]LogAudioMixer: Display: Using Audio Device Speakers (Logitech PRO X Wireless Gaming Headset)
+[2022.07.25-10.50.12:349][934]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.25-10.50.12:349][934]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.25-10.50.12:349][934]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.25-10.50.12:349][934]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.25-10.50.12:349][934]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.25-10.50.12:349][934]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.07.25-10.50.12:360][934]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.25-10.50.12:360][934]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.25-10.50.12:360][934]LogInit: FAudioDevice initialized.
+[2022.07.25-10.50.12:360][934]LogAudio: Display: Audio Device (ID: 21) registered with world 'FirstPersonExampleMap'.
+[2022.07.25-10.50.12:382][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-10.50.12:382][934]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.07.25-10.50.12:384][934]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.07.25-03.50.12
+[2022.07.25-10.50.12:384][934]LogWorld: Bringing up level for play took: 0.001207
+[2022.07.25-10.50.12:384][934]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2022.07.25-10.50.12:386][934]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] 1
+[2022.07.25-10.50.12:386][934]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] LampPiecesLeft
+[2022.07.25-10.50.12:386][934]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] 1
+[2022.07.25-10.50.12:386][934]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] ChairPiecesLeft:
+[2022.07.25-10.50.12:386][934]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] 1
+[2022.07.25-10.50.12:386][934]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] DeskPiecesLeft:
+[2022.07.25-10.50.12:388][934]PIE: Server logged in
+[2022.07.25-10.50.12:390][934]PIE: Play in editor total start time 0.105 seconds.
+[2022.07.25-10.50.15:591][185]LogBlueprintUserMessages: [LampPickup_2] interacted
+[2022.07.25-10.50.15:591][185]LogBlueprintUserMessages: [LampPickup_2] Editing Values now that you have picked it up
+[2022.07.25-10.50.15:591][185]LogBlueprintUserMessages: [LampPickup_2] CarryCapReduced
+[2022.07.25-10.50.15:591][185]LogBlueprintUserMessages: [LampPickup_2] LampPiecesLeftReduced
+[2022.07.25-10.50.19:995][535]LogBlueprintUserMessages: [LampConstruction_8] you have recieved lamp
+[2022.07.25-10.50.24:961][923]LogBlueprintUserMessages: [ChairPickUp_2] interacted
+[2022.07.25-10.50.24:961][923]LogBlueprintUserMessages: [ChairPickUp_2] Editing Values now that you have picked it up
+[2022.07.25-10.50.24:961][923]LogBlueprintUserMessages: [ChairPickUp_2] CarryCapReduced
+[2022.07.25-10.50.24:961][923]LogBlueprintUserMessages: [ChairPickUp_2] ChairPiecesLeftReduced
+[2022.07.25-10.50.27:014][ 81]LogBlueprintUserMessages: [LampConstruction_8] you have recieved lamp
+[2022.07.25-10.50.29:150][242]LogBlueprintUserMessages: [ChairConstruction_2] you have recieved chair
+[2022.07.25-10.50.35:609][729]LogBlueprintUserMessages: [LampConstruction_8] you have recieved lamp
+[2022.07.25-10.50.46:891][583]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-10.50.46:891][583]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.07.25-10.50.46:892][583]LogSlate: Window 'LevelDesign2 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.07.25-10.50.46:897][583]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-10.50.46:897][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-10.50.46:910][583]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.25-10.50.46:914][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-10.50.46:945][583]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.25-10.50.46:945][583]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-10.50.46:946][583]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-10.50.46:961][583]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.07.25-10.50.47:015][584]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2022.07.25-10.51.41:698][596]LogSavePackage: Moving '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Saved/DeskPickup812ED42148C5EBCF6EEED490E827B778.tmp' to '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Content/FirstPersonBP/Blueprints/DeskPickup.uasset'
+[2022.07.25-10.51.41:709][596]AssetCheck: New page: Asset Save: DeskPickup
+[2022.07.25-10.51.41:709][596]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/DeskPickup.DeskPickup
+[2022.07.25-10.52.08:647][576]LogSavePackage: Moving '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Saved/DeskPickup9D552DD341196AE62E6BF6AC0B40BAAE.tmp' to '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Content/FirstPersonBP/Blueprints/DeskPickup.uasset'
+[2022.07.25-10.52.08:658][576]AssetCheck: New page: Asset Save: DeskPickup
+[2022.07.25-10.52.08:658][576]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/DeskPickup.DeskPickup
+[2022.07.25-10.52.10:129][748]BlueprintLog: New page: Compile DeskPickup
+[2022.07.25-10.52.10:186][748]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.07.25-10.52.10:361][765]BlueprintLog: New page: Compile DeskPickup
+[2022.07.25-10.52.10:418][765]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.07.25-10.52.10:464][767]BlueprintLog: New page: Compile DeskPickup
+[2022.07.25-10.52.10:522][767]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.07.25-10.52.22:271][160]BlueprintLog: New page: Compile DeskPickup
+[2022.07.25-10.52.22:325][160]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2022.07.25-10.52.22:402][165]BlueprintLog: New page: Compile DeskPickup
+[2022.07.25-10.52.22:459][165]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2022.07.25-10.52.22:532][170]BlueprintLog: New page: Compile DeskPickup
+[2022.07.25-10.52.22:586][170]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2022.07.25-10.52.26:237][598]BlueprintLog: New page: Compile DeskPickup
+[2022.07.25-10.52.26:293][598]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.07.25-10.52.26:352][600]BlueprintLog: New page: Compile DeskPickup
+[2022.07.25-10.52.26:420][600]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2022.07.25-10.52.27:503][707]LogSavePackage: Moving '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Saved/DeskPickupD404C0B64A9B9772CF8FBC9A38C8AFFD.tmp' to '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Content/FirstPersonBP/Blueprints/DeskPickup.uasset'
+[2022.07.25-10.52.27:513][707]AssetCheck: New page: Asset Save: DeskPickup
+[2022.07.25-10.52.27:514][707]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/DeskPickup.DeskPickup
+[2022.07.25-10.52.30:511][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2022.07.25-10.52.30:527][ 44]LogSavePackage: Moving '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Saved/FirstPersonExampleMap3588FF9949E742276A0197B9D2585E04.tmp' to '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.07.25-10.52.30:544][ 44]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.07.25-10.52.30:544][ 44]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.07.25-10.52.44:630][718]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.25-10.52.44:635][718]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.25-10.52.44:635][718]PIE: New page: PIE session: FirstPersonExampleMap (Jul 24, 2022, 8:52:44 PM)
+[2022.07.25-10.52.44:661][718]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.07.25-10.52.44:669][718]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008658s)
+[2022.07.25-10.52.44:670][718]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.07.25-10.52.44:670][718]LogPlayLevel: PIE: World Init took: (0.000947s)
+[2022.07.25-10.52.44:670][718]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.009766s)
+[2022.07.25-10.52.44:706][718]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.07.25-10.52.44:710][718]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2022.07.25-10.52.44:710][718]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.25-10.52.44:710][718]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.25-10.52.44:710][718]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.25-10.52.44:710][718]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.25-10.52.44:710][718]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.25-10.52.44:710][718]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.25-10.52.44:710][718]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.25-10.52.44:710][718]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.25-10.52.44:710][718]LogAudio: Display: Using built-in audio occlusion.
+[2022.07.25-10.52.44:710][718]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.25-10.52.44:714][718]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.25-10.52.44:714][718]LogAudioMixer: Display: 1: FrontRight
+[2022.07.25-10.52.44:714][718]LogAudioMixer: Display: 2: FrontCenter
+[2022.07.25-10.52.44:714][718]LogAudioMixer: Display: 3: LowFrequency
+[2022.07.25-10.52.44:714][718]LogAudioMixer: Display: 4: BackLeft
+[2022.07.25-10.52.44:714][718]LogAudioMixer: Display: 5: BackRight
+[2022.07.25-10.52.44:714][718]LogAudioMixer: Display: 6: SideLeft
+[2022.07.25-10.52.44:714][718]LogAudioMixer: Display: 7: SideRight
+[2022.07.25-10.52.44:725][718]LogAudioMixer: Display: Using Audio Device Speakers (Logitech PRO X Wireless Gaming Headset)
+[2022.07.25-10.52.44:725][718]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.25-10.52.44:725][718]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.25-10.52.44:725][718]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.25-10.52.44:725][718]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.25-10.52.44:725][718]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.25-10.52.44:725][718]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.07.25-10.52.44:737][718]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.25-10.52.44:737][718]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.25-10.52.44:737][718]LogInit: FAudioDevice initialized.
+[2022.07.25-10.52.44:737][718]LogAudio: Display: Audio Device (ID: 22) registered with world 'FirstPersonExampleMap'.
+[2022.07.25-10.52.44:746][718]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.07.25-10.52.44:748][718]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.07.25-03.52.44
+[2022.07.25-10.52.44:748][718]LogWorld: Bringing up level for play took: 0.001127
+[2022.07.25-10.52.44:748][718]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2022.07.25-10.52.44:750][718]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] 1
+[2022.07.25-10.52.44:750][718]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] LampPiecesLeft
+[2022.07.25-10.52.44:750][718]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] 1
+[2022.07.25-10.52.44:750][718]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] ChairPiecesLeft:
+[2022.07.25-10.52.44:750][718]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] 1
+[2022.07.25-10.52.44:750][718]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] DeskPiecesLeft:
+[2022.07.25-10.52.44:750][718]PIE: Server logged in
+[2022.07.25-10.52.44:750][718]PIE: Play in editor total start time 0.116 seconds.
+[2022.07.25-10.52.48:248][130]LogBlueprintUserMessages: [DeskPickup_2] interacted
+[2022.07.25-10.52.48:248][130]LogBlueprintUserMessages: [DeskPickup_2] Editing Values now that you have picked it up
+[2022.07.25-10.52.48:248][130]LogBlueprintUserMessages: [DeskPickup_2] CarryCapReduced
+[2022.07.25-10.52.48:248][130]LogBlueprintUserMessages: [DeskPickup_2] DeskPiecesLeftReduced
+[2022.07.25-10.52.50:351][377]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-10.52.50:351][377]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.07.25-10.52.50:351][377]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-10.52.50:352][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-10.52.50:365][377]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.25-10.52.50:369][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-10.52.50:398][377]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-10.52.50:398][377]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-10.52.50:399][377]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-10.52.50:413][377]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.07.25-10.52.50:437][378]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2022.07.25-10.52.52:903][666]LogSavePackage: Moving '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Saved/DeskConstruction1C10C5714891E3BA239C1AB75A8CA3D1.tmp' to '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Content/FirstPersonBP/Blueprints/DeskConstruction.uasset'
+[2022.07.25-10.52.52:913][666]AssetCheck: New page: Asset Save: DeskConstruction
+[2022.07.25-10.52.52:913][666]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/DeskConstruction.DeskConstruction
+[2022.07.25-10.52.58:238][298]LogSavePackage: Moving '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Saved/ChairPickUp382B9B2E43A5EDEC27842BB26F5F04DD.tmp' to '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Content/FirstPersonBP/Blueprints/ChairPickUp.uasset'
+[2022.07.25-10.52.58:260][298]AssetCheck: New page: Asset Save: ChairPickUp
+[2022.07.25-10.52.58:260][298]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/ChairPickUp.ChairPickUp
+[2022.07.25-10.54.01:719][380]LogSavePackage: Moving '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Saved/DeskConstructionEA40000C4F69D7EC9FC6DFA95EAE92E8.tmp' to '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Content/FirstPersonBP/Blueprints/DeskConstruction.uasset'
+[2022.07.25-10.54.01:729][380]AssetCheck: New page: Asset Save: DeskConstruction
+[2022.07.25-10.54.01:729][380]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/DeskConstruction.DeskConstruction
+[2022.07.25-10.54.21:065][489]LogSavePackage: Moving '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Saved/ChairConstruction261814334C2B03CB441D2CB0AC6CE0F0.tmp' to '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Content/FirstPersonBP/Blueprints/ChairConstruction.uasset'
+[2022.07.25-10.54.21:075][489]AssetCheck: New page: Asset Save: ChairConstruction
+[2022.07.25-10.54.21:076][489]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/ChairConstruction.ChairConstruction
+[2022.07.25-10.54.22:664][649]LogSavePackage: Moving '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Saved/DeskConstruction91AA2B2049421C372F9CEEB9109E00DA.tmp' to '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Content/FirstPersonBP/Blueprints/DeskConstruction.uasset'
+[2022.07.25-10.54.22:673][649]AssetCheck: New page: Asset Save: DeskConstruction
+[2022.07.25-10.54.22:673][649]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/DeskConstruction.DeskConstruction
+[2022.07.25-10.54.28:771][353]LogEditorTransaction: Undo Move Node
+[2022.07.25-10.54.32:359][737]LogSavePackage: Moving '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Saved/DeskConstruction3F2E92C24C6A3D401D650A8C74B086AF.tmp' to '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Content/FirstPersonBP/Blueprints/DeskConstruction.uasset'
+[2022.07.25-10.54.32:370][737]AssetCheck: New page: Asset Save: DeskConstruction
+[2022.07.25-10.54.32:370][737]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/DeskConstruction.DeskConstruction
+[2022.07.25-10.54.35:622][123]LogSavePackage: Moving '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Saved/DeskConstructionEE0E155747ABA0A9F827E79DA8306AAB.tmp' to '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Content/FirstPersonBP/Blueprints/DeskConstruction.uasset'
+[2022.07.25-10.54.35:633][123]AssetCheck: New page: Asset Save: DeskConstruction
+[2022.07.25-10.54.35:633][123]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/DeskConstruction.DeskConstruction
+[2022.07.25-10.55.04:661][474]BlueprintLog: New page: Compile DeskConstruction
+[2022.07.25-10.55.04:716][474]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2022.07.25-10.55.04:799][481]BlueprintLog: New page: Compile DeskConstruction
+[2022.07.25-10.55.04:850][481]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.07.25-10.55.04:948][490]BlueprintLog: New page: Compile DeskConstruction
+[2022.07.25-10.55.04:996][490]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2022.07.25-10.55.05:099][500]BlueprintLog: New page: Compile DeskConstruction
+[2022.07.25-10.55.05:153][500]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.07.25-10.55.24:756][745]BlueprintLog: New page: Compile LampConstruction
+[2022.07.25-10.55.24:814][745]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2022.07.25-10.55.24:904][750]BlueprintLog: New page: Compile LampConstruction
+[2022.07.25-10.55.24:965][750]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.07.25-10.55.25:050][755]BlueprintLog: New page: Compile LampConstruction
+[2022.07.25-10.55.25:106][755]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.07.25-10.55.26:342][878]LogSavePackage: Moving '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Saved/DeskConstruction33D93D524C56AAD9FD00ECAC8B334EE8.tmp' to '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Content/FirstPersonBP/Blueprints/DeskConstruction.uasset'
+[2022.07.25-10.55.26:354][878]AssetCheck: New page: Asset Save: DeskConstruction
+[2022.07.25-10.55.26:354][878]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/DeskConstruction.DeskConstruction
+[2022.07.25-10.55.26:753][922]BlueprintLog: New page: Compile DeskConstruction
+[2022.07.25-10.55.26:807][922]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.07.25-10.55.26:893][929]BlueprintLog: New page: Compile DeskConstruction
+[2022.07.25-10.55.26:947][929]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2022.07.25-10.55.52:180][821]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.07.25-10.57.00:768][ 31]LogSavePackage: Moving '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Saved/ChairConstructionE8CD48684E5ED1FA5780749475E88C93.tmp' to '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Content/FirstPersonBP/Blueprints/ChairConstruction.uasset'
+[2022.07.25-10.57.00:781][ 31]AssetCheck: New page: Asset Save: ChairConstruction
+[2022.07.25-10.57.00:781][ 31]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/ChairConstruction.ChairConstruction
+[2022.07.25-10.57.07:460][802]LogSavePackage: Moving '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Saved/DeskConstructionAC3AE5DB43AADD90AE5074B5482F1BD6.tmp' to '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Content/FirstPersonBP/Blueprints/DeskConstruction.uasset'
+[2022.07.25-10.57.07:470][802]AssetCheck: New page: Asset Save: DeskConstruction
+[2022.07.25-10.57.07:470][802]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/DeskConstruction.DeskConstruction
+[2022.07.25-10.57.10:754][186]LogSavePackage: Moving '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Saved/DeskConstructionD7A1BAA7485F8D08044C32ADC3F3EAC6.tmp' to '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Content/FirstPersonBP/Blueprints/DeskConstruction.uasset'
+[2022.07.25-10.57.10:764][186]AssetCheck: New page: Asset Save: DeskConstruction
+[2022.07.25-10.57.10:764][186]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/DeskConstruction.DeskConstruction
+[2022.07.25-10.57.59:459][852]LogSavePackage: Moving '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Saved/DeskConstruction9CED246141D325125E78F89ACEC9E4BB.tmp' to '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Content/FirstPersonBP/Blueprints/DeskConstruction.uasset'
+[2022.07.25-10.57.59:472][852]AssetCheck: New page: Asset Save: DeskConstruction
+[2022.07.25-10.57.59:472][852]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/DeskConstruction.DeskConstruction
+[2022.07.25-10.58.00:809][  1]LogSavePackage: Moving '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Saved/DeskConstructionC492AE8946D9620505C4DC83917DF999.tmp' to '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Content/FirstPersonBP/Blueprints/DeskConstruction.uasset'
+[2022.07.25-10.58.00:819][  1]AssetCheck: New page: Asset Save: DeskConstruction
+[2022.07.25-10.58.00:819][  1]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/DeskConstruction.DeskConstruction
+[2022.07.25-10.58.23:648][672]LogSavePackage: Moving '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Saved/DeskConstruction2B7383F1425D2106F0E4528B61B6B924.tmp' to '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Content/FirstPersonBP/Blueprints/DeskConstruction.uasset'
+[2022.07.25-10.58.23:658][672]AssetCheck: New page: Asset Save: DeskConstruction
+[2022.07.25-10.58.23:658][672]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/DeskConstruction.DeskConstruction
+[2022.07.25-10.58.27:292][ 82]LogSavePackage: Moving '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Saved/DeskConstructionCB4A7CC84ADA3E7B0FE0D7AA1E60F2BF.tmp' to '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Content/FirstPersonBP/Blueprints/DeskConstruction.uasset'
+[2022.07.25-10.58.27:302][ 82]AssetCheck: New page: Asset Save: DeskConstruction
+[2022.07.25-10.58.27:302][ 82]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/DeskConstruction.DeskConstruction
+[2022.07.25-10.58.40:535][501]LogSavePackage: Moving '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Saved/ChairConstructionD5CF6B044BAEEFD8D4ECB095C13B1614.tmp' to '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Content/FirstPersonBP/Blueprints/ChairConstruction.uasset'
+[2022.07.25-10.58.40:545][501]AssetCheck: New page: Asset Save: ChairConstruction
+[2022.07.25-10.58.40:546][501]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/ChairConstruction.ChairConstruction
+[2022.07.25-10.58.41:223][578]BlueprintLog: New page: Compile ChairConstruction
+[2022.07.25-10.58.41:285][578]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.07.25-10.58.46:801][208]LogEditorTransaction: Undo Create Pin Link
+[2022.07.25-10.59.01:356][827]LogSavePackage: Moving '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Saved/DeskConstruction778D6DB743CD90B39081729223572405.tmp' to '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Content/FirstPersonBP/Blueprints/DeskConstruction.uasset'
+[2022.07.25-10.59.01:366][827]AssetCheck: New page: Asset Save: DeskConstruction
+[2022.07.25-10.59.01:366][827]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/DeskConstruction.DeskConstruction
+[2022.07.25-10.59.32:788][491]LogSavePackage: Moving '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Saved/DeskConstructionD6C8EB414B3E5CF759D590BFB756132C.tmp' to '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Content/FirstPersonBP/Blueprints/DeskConstruction.uasset'
+[2022.07.25-10.59.32:798][491]AssetCheck: New page: Asset Save: DeskConstruction
+[2022.07.25-10.59.32:798][491]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/DeskConstruction.DeskConstruction
+[2022.07.25-11.00.04:586][106]LogSavePackage: Moving '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Saved/DeskConstruction172D3DF74C4268F7138034B90A878645.tmp' to '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Content/FirstPersonBP/Blueprints/DeskConstruction.uasset'
+[2022.07.25-11.00.04:596][106]AssetCheck: New page: Asset Save: DeskConstruction
+[2022.07.25-11.00.04:596][106]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/DeskConstruction.DeskConstruction
+[2022.07.25-11.00.05:210][176]BlueprintLog: New page: Compile DeskConstruction
+[2022.07.25-11.00.05:272][176]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2022.07.25-11.00.05:354][182]BlueprintLog: New page: Compile DeskConstruction
+[2022.07.25-11.00.05:409][182]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.07.25-11.01.11:780][723]LogSavePackage: Moving '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Saved/DeskConstructionBD8FCAD340C4BF3D42B405B469CFF7DE.tmp' to '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Content/FirstPersonBP/Blueprints/DeskConstruction.uasset'
+[2022.07.25-11.01.11:790][723]AssetCheck: New page: Asset Save: DeskConstruction
+[2022.07.25-11.01.11:790][723]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/DeskConstruction.DeskConstruction
+[2022.07.25-11.01.37:781][596]LogSavePackage: Moving '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Saved/DeskConstructionC65DA1E74AFC2EE0F8AB7EBA678B068D.tmp' to '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Content/FirstPersonBP/Blueprints/DeskConstruction.uasset'
+[2022.07.25-11.01.37:792][596]AssetCheck: New page: Asset Save: DeskConstruction
+[2022.07.25-11.01.37:792][596]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/DeskConstruction.DeskConstruction
+[2022.07.25-11.01.45:732][446]LogSavePackage: Moving '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Saved/DeskConstruction67F924B94EFF52ABAD3DA3B096EBCB2C.tmp' to '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Content/FirstPersonBP/Blueprints/DeskConstruction.uasset'
+[2022.07.25-11.01.45:744][446]AssetCheck: New page: Asset Save: DeskConstruction
+[2022.07.25-11.01.45:744][446]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/DeskConstruction.DeskConstruction
+[2022.07.25-11.01.47:978][701]LogSavePackage: Moving '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Saved/DeskConstruction9F9BCC3247E35BEAC4595AB5729B06B7.tmp' to '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Content/FirstPersonBP/Blueprints/DeskConstruction.uasset'
+[2022.07.25-11.01.47:989][701]AssetCheck: New page: Asset Save: DeskConstruction
+[2022.07.25-11.01.47:989][701]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/DeskConstruction.DeskConstruction
+[2022.07.25-11.02.00:623][ 49]LogSavePackage: Moving '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Saved/DeskConstruction240E831740896A42B4E32384DC0F70EC.tmp' to '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Content/FirstPersonBP/Blueprints/DeskConstruction.uasset'
+[2022.07.25-11.02.00:634][ 49]AssetCheck: New page: Asset Save: DeskConstruction
+[2022.07.25-11.02.00:634][ 49]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/DeskConstruction.DeskConstruction
+[2022.07.25-11.02.16:214][690]LogSavePackage: Moving '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Saved/DeskConstruction931031C54FBB7E350AA9D28D7BBF95E0.tmp' to '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Content/FirstPersonBP/Blueprints/DeskConstruction.uasset'
+[2022.07.25-11.02.16:225][690]AssetCheck: New page: Asset Save: DeskConstruction
+[2022.07.25-11.02.16:225][690]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/DeskConstruction.DeskConstruction
+[2022.07.25-11.02.24:319][447]LogSavePackage: Moving '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Saved/DeskConstructionED3C2C5C40DE293647BD4A8A133C506E.tmp' to '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Content/FirstPersonBP/Blueprints/DeskConstruction.uasset'
+[2022.07.25-11.02.24:330][447]AssetCheck: New page: Asset Save: DeskConstruction
+[2022.07.25-11.02.24:330][447]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/DeskConstruction.DeskConstruction
+[2022.07.25-11.02.38:353][960]LogSavePackage: Moving '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Saved/DeskConstruction80A326F24D88B2FDA4130088D20AB70A.tmp' to '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Content/FirstPersonBP/Blueprints/DeskConstruction.uasset'
+[2022.07.25-11.02.38:363][960]AssetCheck: New page: Asset Save: DeskConstruction
+[2022.07.25-11.02.38:363][960]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/DeskConstruction.DeskConstruction
+[2022.07.25-11.02.42:662][403]BlueprintLog: New page: Compile DeskConstruction
+[2022.07.25-11.02.42:722][403]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2022.07.25-11.02.43:022][429]BlueprintLog: New page: Compile DeskConstruction
+[2022.07.25-11.02.43:077][429]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2022.07.25-11.02.43:140][431]BlueprintLog: New page: Compile DeskConstruction
+[2022.07.25-11.02.43:195][431]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.07.25-11.02.45:088][597]LogSavePackage: Moving '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Saved/LampConstruction176835FB4EF7E59E85AB4F95E1D26CF3.tmp' to '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Content/FirstPersonBP/Blueprints/LampConstruction.uasset'
+[2022.07.25-11.02.45:099][597]AssetCheck: New page: Asset Save: LampConstruction
+[2022.07.25-11.02.45:099][597]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/LampConstruction.LampConstruction
+[2022.07.25-11.02.46:414][719]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.25-11.02.46:419][719]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.25-11.02.46:419][719]PIE: New page: PIE session: FirstPersonExampleMap (Jul 24, 2022, 9:02:46 PM)
+[2022.07.25-11.02.46:419][719]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.07.25-11.02.46:429][719]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009600s)
+[2022.07.25-11.02.46:430][719]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.07.25-11.02.46:430][719]LogPlayLevel: PIE: World Init took: (0.001318s)
+[2022.07.25-11.02.46:430][719]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011034s)
+[2022.07.25-11.02.46:465][719]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.07.25-11.02.46:466][719]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2022.07.25-11.02.46:466][719]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.25-11.02.46:466][719]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.25-11.02.46:466][719]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.25-11.02.46:466][719]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.25-11.02.46:466][719]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.25-11.02.46:466][719]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.25-11.02.46:466][719]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.25-11.02.46:466][719]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.25-11.02.46:466][719]LogAudio: Display: Using built-in audio occlusion.
+[2022.07.25-11.02.46:466][719]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.25-11.02.46:470][719]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.25-11.02.46:470][719]LogAudioMixer: Display: 1: FrontRight
+[2022.07.25-11.02.46:470][719]LogAudioMixer: Display: 2: FrontCenter
+[2022.07.25-11.02.46:470][719]LogAudioMixer: Display: 3: LowFrequency
+[2022.07.25-11.02.46:470][719]LogAudioMixer: Display: 4: BackLeft
+[2022.07.25-11.02.46:470][719]LogAudioMixer: Display: 5: BackRight
+[2022.07.25-11.02.46:470][719]LogAudioMixer: Display: 6: SideLeft
+[2022.07.25-11.02.46:470][719]LogAudioMixer: Display: 7: SideRight
+[2022.07.25-11.02.46:480][719]LogAudioMixer: Display: Using Audio Device Speakers (Logitech PRO X Wireless Gaming Headset)
+[2022.07.25-11.02.46:480][719]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.25-11.02.46:480][719]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.25-11.02.46:480][719]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.25-11.02.46:481][719]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.25-11.02.46:481][719]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.25-11.02.46:481][719]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.07.25-11.02.46:492][719]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.25-11.02.46:492][719]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.25-11.02.46:492][719]LogInit: FAudioDevice initialized.
+[2022.07.25-11.02.46:492][719]LogAudio: Display: Audio Device (ID: 23) registered with world 'FirstPersonExampleMap'.
+[2022.07.25-11.02.46:515][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-11.02.46:515][719]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.07.25-11.02.46:517][719]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.07.25-04.02.46
+[2022.07.25-11.02.46:517][719]LogWorld: Bringing up level for play took: 0.001388
+[2022.07.25-11.02.46:517][719]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2022.07.25-11.02.46:519][719]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] 1
+[2022.07.25-11.02.46:519][719]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] LampPiecesLeft
+[2022.07.25-11.02.46:519][719]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] 1
+[2022.07.25-11.02.46:519][719]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] ChairPiecesLeft:
+[2022.07.25-11.02.46:519][719]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] 1
+[2022.07.25-11.02.46:519][719]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] DeskPiecesLeft:
+[2022.07.25-11.02.46:522][719]PIE: Server logged in
+[2022.07.25-11.02.46:526][719]PIE: Play in editor total start time 0.108 seconds.
+[2022.07.25-11.02.49:740][969]LogBlueprintUserMessages: [DeskPickup_2] interacted
+[2022.07.25-11.02.49:741][969]LogBlueprintUserMessages: [DeskPickup_2] Editing Values now that you have picked it up
+[2022.07.25-11.02.49:741][969]LogBlueprintUserMessages: [DeskPickup_2] CarryCapReduced
+[2022.07.25-11.02.49:741][969]LogBlueprintUserMessages: [DeskPickup_2] DeskPiecesLeftReduced
+[2022.07.25-11.02.52:491][167]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-11.02.52:491][167]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.07.25-11.02.52:492][167]LogSlate: Window 'LevelDesign2 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.07.25-11.02.52:499][167]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-11.02.52:499][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-11.02.52:519][167]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.25-11.02.52:523][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-11.02.52:559][167]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.25-11.02.52:559][167]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-11.02.52:560][167]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-11.02.52:575][167]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.07.25-11.02.52:623][168]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2022.07.25-11.02.54:572][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.07.25-11.02.54:587][328]LogSavePackage: Moving '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Saved/FirstPersonExampleMap691421754176535A4C655BADD6121AE8.tmp' to '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.07.25-11.02.54:605][328]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.07.25-11.02.54:605][328]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.07.25-11.02.56:333][515]LogEditorViewport: Clicking on Actor (LMB): DeskConstruction_C (DeskConstruction)
+[2022.07.25-11.03.02:834][ 96]Cmd: TRANSACTION UNDO
+[2022.07.25-11.03.02:834][ 96]LogEditorTransaction: Undo Scale Components
+[2022.07.25-11.03.11:372][898]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall4)
+[2022.07.25-11.03.11:485][901]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.07.25-11.03.11:502][901]LogSavePackage: Moving '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Saved/FirstPersonExampleMap7C4DA4714D0054554CC1C1B67B4C04CD.tmp' to '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.07.25-11.03.11:518][901]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.07.25-11.03.11:518][901]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.07.25-11.03.17:971][545]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.25-11.03.17:975][545]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.25-11.03.17:975][545]PIE: New page: PIE session: FirstPersonExampleMap (Jul 24, 2022, 9:03:17 PM)
+[2022.07.25-11.03.17:975][545]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.07.25-11.03.17:983][545]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008057s)
+[2022.07.25-11.03.17:984][545]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.07.25-11.03.17:984][545]LogPlayLevel: PIE: World Init took: (0.000890s)
+[2022.07.25-11.03.17:984][545]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.009039s)
+[2022.07.25-11.03.18:018][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.07.25-11.03.18:019][545]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2022.07.25-11.03.18:019][545]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.25-11.03.18:019][545]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.25-11.03.18:019][545]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.25-11.03.18:019][545]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.25-11.03.18:019][545]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.25-11.03.18:019][545]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.25-11.03.18:019][545]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.25-11.03.18:019][545]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.25-11.03.18:020][545]LogAudio: Display: Using built-in audio occlusion.
+[2022.07.25-11.03.18:020][545]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.25-11.03.18:024][545]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.25-11.03.18:024][545]LogAudioMixer: Display: 1: FrontRight
+[2022.07.25-11.03.18:024][545]LogAudioMixer: Display: 2: FrontCenter
+[2022.07.25-11.03.18:024][545]LogAudioMixer: Display: 3: LowFrequency
+[2022.07.25-11.03.18:024][545]LogAudioMixer: Display: 4: BackLeft
+[2022.07.25-11.03.18:024][545]LogAudioMixer: Display: 5: BackRight
+[2022.07.25-11.03.18:024][545]LogAudioMixer: Display: 6: SideLeft
+[2022.07.25-11.03.18:024][545]LogAudioMixer: Display: 7: SideRight
+[2022.07.25-11.03.18:034][545]LogAudioMixer: Display: Using Audio Device Speakers (Logitech PRO X Wireless Gaming Headset)
+[2022.07.25-11.03.18:034][545]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.25-11.03.18:035][545]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.25-11.03.18:035][545]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.25-11.03.18:035][545]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.25-11.03.18:035][545]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.25-11.03.18:035][545]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.07.25-11.03.18:045][545]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.25-11.03.18:045][545]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.25-11.03.18:045][545]LogInit: FAudioDevice initialized.
+[2022.07.25-11.03.18:045][545]LogAudio: Display: Audio Device (ID: 24) registered with world 'FirstPersonExampleMap'.
+[2022.07.25-11.03.18:067][545]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-11.03.18:067][545]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.07.25-11.03.18:069][545]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.07.25-04.03.18
+[2022.07.25-11.03.18:069][545]LogWorld: Bringing up level for play took: 0.001212
+[2022.07.25-11.03.18:069][545]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2022.07.25-11.03.18:071][545]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] 1
+[2022.07.25-11.03.18:071][545]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] LampPiecesLeft
+[2022.07.25-11.03.18:071][545]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] 1
+[2022.07.25-11.03.18:071][545]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] ChairPiecesLeft:
+[2022.07.25-11.03.18:071][545]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] 1
+[2022.07.25-11.03.18:071][545]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] DeskPiecesLeft:
+[2022.07.25-11.03.18:074][545]PIE: Server logged in
+[2022.07.25-11.03.18:076][545]PIE: Play in editor total start time 0.101 seconds.
+[2022.07.25-11.03.26:027][172]LogBlueprintUserMessages: [DeskConstruction_2] You did not get all desk pieces
+[2022.07.25-11.03.30:232][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-11.03.30:232][475]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.07.25-11.03.30:233][475]LogSlate: Window 'LevelDesign2 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.07.25-11.03.30:240][475]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-11.03.30:240][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-11.03.30:256][475]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.25-11.03.30:271][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-11.03.30:303][475]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.25-11.03.30:303][475]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-11.03.30:304][475]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-11.03.30:318][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.07.25-11.03.30:375][476]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2022.07.25-11.03.33:218][719]LogEditorViewport: Clicking on Actor (LMB): DeskPickup_C (DeskPickup)
+[2022.07.25-11.03.38:318][196]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.07.25-11.03.38:334][196]LogSavePackage: Moving '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Saved/FirstPersonExampleMap817B03824FBF48EDB54BA3882E43D611.tmp' to '../../../../../../Users/Brandon/OneDrive/Documents/School and Work/Game Projects/Unreal/Level Design 2 Project/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2022.07.25-11.03.38:350][196]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2022.07.25-11.03.38:350][196]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2022.07.25-11.03.59:734][606]BlueprintLog: New page: Compile DeskPickup
+[2022.07.25-11.03.59:792][606]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.07.25-11.03.59:946][620]BlueprintLog: New page: Compile DeskPickup
+[2022.07.25-11.04.00:004][620]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2022.07.25-11.04.01:800][808]LogTemp: Repeating last play command: Selected Viewport
+[2022.07.25-11.04.01:805][808]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.25-11.04.01:805][808]PIE: New page: PIE session: FirstPersonExampleMap (Jul 24, 2022, 9:04:01 PM)
+[2022.07.25-11.04.01:806][808]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.07.25-11.04.01:815][808]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009104s)
+[2022.07.25-11.04.01:816][808]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2022.07.25-11.04.01:816][808]LogPlayLevel: PIE: World Init took: (0.001038s)
+[2022.07.25-11.04.01:816][808]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.010270s)
+[2022.07.25-11.04.01:851][808]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2022.07.25-11.04.01:852][808]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2022.07.25-11.04.01:852][808]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.25-11.04.01:852][808]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.25-11.04.01:852][808]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.25-11.04.01:852][808]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.25-11.04.01:852][808]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.25-11.04.01:852][808]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.25-11.04.01:852][808]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.25-11.04.01:852][808]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.25-11.04.01:852][808]LogAudio: Display: Using built-in audio occlusion.
+[2022.07.25-11.04.01:852][808]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.25-11.04.01:856][808]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.25-11.04.01:856][808]LogAudioMixer: Display: 1: FrontRight
+[2022.07.25-11.04.01:856][808]LogAudioMixer: Display: 2: FrontCenter
+[2022.07.25-11.04.01:856][808]LogAudioMixer: Display: 3: LowFrequency
+[2022.07.25-11.04.01:856][808]LogAudioMixer: Display: 4: BackLeft
+[2022.07.25-11.04.01:856][808]LogAudioMixer: Display: 5: BackRight
+[2022.07.25-11.04.01:856][808]LogAudioMixer: Display: 6: SideLeft
+[2022.07.25-11.04.01:856][808]LogAudioMixer: Display: 7: SideRight
+[2022.07.25-11.04.01:866][808]LogAudioMixer: Display: Using Audio Device Speakers (Logitech PRO X Wireless Gaming Headset)
+[2022.07.25-11.04.01:866][808]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.25-11.04.01:866][808]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.25-11.04.01:866][808]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.25-11.04.01:866][808]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.25-11.04.01:866][808]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.25-11.04.01:866][808]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.07.25-11.04.01:876][808]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.25-11.04.01:876][808]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.25-11.04.01:876][808]LogInit: FAudioDevice initialized.
+[2022.07.25-11.04.01:877][808]LogAudio: Display: Audio Device (ID: 25) registered with world 'FirstPersonExampleMap'.
+[2022.07.25-11.04.01:900][808]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-11.04.01:900][808]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.07.25-11.04.01:902][808]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2022.07.25-04.04.01
+[2022.07.25-11.04.01:902][808]LogWorld: Bringing up level for play took: 0.001212
+[2022.07.25-11.04.01:902][808]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2022.07.25-11.04.01:904][808]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] 1
+[2022.07.25-11.04.01:904][808]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] LampPiecesLeft
+[2022.07.25-11.04.01:904][808]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] 1
+[2022.07.25-11.04.01:904][808]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] ChairPiecesLeft:
+[2022.07.25-11.04.01:904][808]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] 1
+[2022.07.25-11.04.01:904][808]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] DeskPiecesLeft:
+[2022.07.25-11.04.01:906][808]PIE: Server logged in
+[2022.07.25-11.04.01:908][808]PIE: Play in editor total start time 0.103 seconds.
+[2022.07.25-11.04.05:787][179]LogBlueprintUserMessages: [DeskPickup_2] interacted
+[2022.07.25-11.04.05:787][179]LogBlueprintUserMessages: [DeskPickup_2] Editing Values now that you have picked it up
+[2022.07.25-11.04.05:787][179]LogBlueprintUserMessages: [DeskPickup_2] CarryCapReduced
+[2022.07.25-11.04.05:787][179]LogBlueprintUserMessages: [DeskPickup_2] DeskPiecesLeftReduced
+[2022.07.25-11.04.12:142][803]LogBlueprintUserMessages: [DeskConstruction_2] you have recieved desk
+[2022.07.25-11.04.13:331][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-11.04.13:331][916]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2022.07.25-11.04.13:332][916]LogSlate: Window 'LevelDesign2 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.07.25-11.04.13:338][916]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-11.04.13:338][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-11.04.13:354][916]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.25-11.04.13:358][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-11.04.13:391][916]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.25-11.04.13:391][916]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-11.04.13:392][916]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-11.04.13:407][916]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.07.25-11.04.13:447][917]LogPlayLevel: Display: Destroying online subsystem :Context_45
