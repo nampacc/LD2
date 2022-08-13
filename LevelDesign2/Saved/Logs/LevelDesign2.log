@@ -24471,3 +24471,1715 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.08.13-05.00.23:933][ 71]LogContentValidation: Display: Validating Texture2D /Game/FirstPersonBP/Maps/FinalMap/Sourceimages/PingPongTableTEX.PingPongTableTEX
 [2022.08.13-05.00.23:933][ 71]LogContentValidation: Display: Validating Texture2D /Game/FirstPersonBP/Maps/FinalMap/Sourceimages/TexturesCom_FloorLaminateWhitewashed_New_512_albedo.TexturesCom_FloorLaminateWhitewashed_New_512_albedo
 [2022.08.13-05.00.23:933][ 71]LogContentValidation: Display: Validating Texture2D /Game/FirstPersonBP/Maps/FinalMap/Sourceimages/Counter_Guilmette_ALB_01.Counter_Guilmette_ALB_01
+[2022.08.13-06.59.22:607][930]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2022.08.13-06.59.22:625][930]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.13-06.59.22:626][930]PIE: New page: PIE session: TestMap (Aug 12, 2022, 4:59:22 PM)
+[2022.08.13-06.59.22:635][930]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.08.13-06.59.22:637][930]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.08.13-06.59.22:638][930]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_TestMap
+[2022.08.13-06.59.22:667][930]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028201s)
+[2022.08.13-06.59.22:669][930]LogAIModule: Creating AISystem for world TestMap
+[2022.08.13-06.59.22:670][930]LogPlayLevel: PIE: World Init took: (0.003306s)
+[2022.08.13-06.59.22:671][930]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/TestMap.TestMap to /Game/FirstPersonBP/Maps/UEDPIE_0_TestMap.TestMap (0.032375s)
+[2022.08.13-06.59.22:683][930]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.08.13-06.59.22:868][930]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.08.13-06.59.22:868][930]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.13-06.59.22:868][930]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.13-06.59.22:868][930]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.13-06.59.22:868][930]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.13-06.59.22:868][930]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.13-06.59.22:868][930]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.13-06.59.22:868][930]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.13-06.59.22:868][930]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.13-06.59.22:869][930]LogAudio: Display: Using built-in audio occlusion.
+[2022.08.13-06.59.22:869][930]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.13-06.59.22:874][930]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.13-06.59.22:874][930]LogAudioMixer: Display: 1: FrontRight
+[2022.08.13-06.59.22:901][930]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.08.13-06.59.22:907][930]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.13-06.59.22:907][930]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.13-06.59.22:907][930]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.13-06.59.22:912][930]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.13-06.59.22:912][930]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.13-06.59.22:912][930]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.13-06.59.22:916][930]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.13-06.59.22:916][930]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.13-06.59.22:916][930]LogInit: FAudioDevice initialized.
+[2022.08.13-06.59.22:916][930]LogAudio: Display: Audio Device (ID: 2) registered with world 'TestMap'.
+[2022.08.13-06.59.22:938][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.13-06.59.22:940][930]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2022.08.13-06.59.22:955][930]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2022.08.12-23.59.22
+[2022.08.13-06.59.22:977][930]LogWorld: Bringing up level for play took: 0.027772
+[2022.08.13-06.59.23:021][930]LogOnline: OSS: Creating online subsystem instance for: :Context_230
+[2022.08.13-06.59.23:034][930]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0014 seconds. Added 20 classes and 0 folders.
+[2022.08.13-06.59.23:044][930]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] 0
+[2022.08.13-06.59.23:045][930]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] LampPiecesLeft
+[2022.08.13-06.59.23:045][930]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] 3
+[2022.08.13-06.59.23:045][930]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] ChairPiecesLeft:
+[2022.08.13-06.59.23:045][930]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] 1
+[2022.08.13-06.59.23:045][930]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] DeskPiecesLeft:
+[2022.08.13-06.59.23:046][930]Cmd: r.setres 
+[2022.08.13-06.59.23:047][930]r.SetRes = "1925x1057w"      LastSetBy: SystemSettingsIni
+[2022.08.13-06.59.23:047][930]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.08.13-06.59.23:064][930]PIE: Server logged in
+[2022.08.13-06.59.23:066][930]PIE: Play in editor total start time 0.446 seconds.
+[2022.08.13-06.59.23:153][931]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.059760 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter-Nico_3', movement 'Walking'
+[2022.08.13-06.59.27:863][202]LogBlueprintUserMessages: [checkpoint3_5] save
+[2022.08.13-06.59.34:751][615]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsFirst_Person_Character__Nico
+	Enemy_ai_C /Game/FirstPersonBP/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.Enemy_ai3
+	Function /Game/FirstPersonBP/EnemyAI/Enemy_ai.Enemy_ai_C:ExecuteUbergraph_Enemy_ai:0FD6
+[2022.08.13-06.59.34:753][615]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsFirst_Person_Character__Nico". Blueprint:  Enemy_ai Function:  Execute Ubergraph Enemy Ai Graph:  EventGraph Node:  Set Field Of View
+[2022.08.13-06.59.34:753][615]LogScript: Warning: Accessed None
+	Enemy_ai_C /Game/FirstPersonBP/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.Enemy_ai3
+	Function /Game/FirstPersonBP/EnemyAI/Enemy_ai.Enemy_ai_C:ExecuteUbergraph_Enemy_ai:0FEB
+[2022.08.13-06.59.34:753][615]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  Enemy_ai Function:  Execute Ubergraph Enemy Ai Graph:  EventGraph Node:  Set Field Of View
+[2022.08.13-06.59.44:746][215]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsFirst_Person_Character__Nico
+	Enemy_ai_C /Game/FirstPersonBP/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.Enemy_ai3
+	Function /Game/FirstPersonBP/EnemyAI/Enemy_ai.Enemy_ai_C:ExecuteUbergraph_Enemy_ai:0FD6
+[2022.08.13-06.59.44:746][215]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsFirst_Person_Character__Nico". Blueprint:  Enemy_ai Function:  Execute Ubergraph Enemy Ai Graph:  EventGraph Node:  Set Field Of View
+[2022.08.13-06.59.44:746][215]LogScript: Warning: Accessed None
+	Enemy_ai_C /Game/FirstPersonBP/Maps/UEDPIE_0_TestMap.TestMap:PersistentLevel.Enemy_ai3
+	Function /Game/FirstPersonBP/EnemyAI/Enemy_ai.Enemy_ai_C:ExecuteUbergraph_Enemy_ai:0FEB
+[2022.08.13-06.59.44:746][215]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  Enemy_ai Function:  Execute Ubergraph Enemy Ai Graph:  EventGraph Node:  Set Field Of View
+[2022.08.13-06.59.51:894][641]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.13-06.59.51:894][641]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_TestMap
+[2022.08.13-06.59.51:895][641]LogSlate: Window 'LevelDesign2 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.13-06.59.51:899][641]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2022.08.13-06.59.51:901][641]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.13-06.59.51:915][641]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.13-06.59.51:939][641]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.13-06.59.51:945][641]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.13-06.59.51:946][641]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.13-06.59.51:948][641]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.13-06.59.51:971][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.08.13-06.59.52:597][642]LogPlayLevel: Display: Destroying online subsystem :Context_230
+[2022.08.13-06.59.55:795][744]LogSlate: Window 'Message Log' being destroyed
+[2022.08.13-06.59.55:799][744]LogSlate: Window 'Message Log' being destroyed
+[2022.08.13-07.07.25:133][451]LogSlate: Window 'Message Log' being destroyed
+[2022.08.13-07.07.25:137][451]LogSlate: Window 'Message Log' being destroyed
+[2022.08.13-07.07.30:245][754]MapCheck: New page: Map Check
+[2022.08.13-07.07.30:263][754]Cmd: MAP REBUILD ALLVISIBLE
+[2022.08.13-07.07.30:264][754]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.08.13-07.07.30:272][754]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=false
+[2022.08.13-07.07.30:310][754]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2022.08.13-07.07.30:310][754]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2022.08.13-07.07.30:310][754]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2022.08.13-07.07.30:327][754]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2022.08.13-07.07.30:449][754]LogNavigationDataBuild: Display: UNavigationSystemV1::Build total execution time: 0.14s
+[2022.08.13-07.07.30:461][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.08.13-07.07.30:501][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:505][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:506][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:508][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:510][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:511][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:512][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:514][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:515][754]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 14
+[2022.08.13-07.07.30:515][754]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 13
+[2022.08.13-07.07.30:515][754]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2022.08.13-07.07.30:515][754]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2022.08.13-07.07.30:515][754]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2022.08.13-07.07.30:515][754]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2022.08.13-07.07.30:515][754]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 8
+[2022.08.13-07.07.30:515][754]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2022.08.13-07.07.30:515][754]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2022.08.13-07.07.30:516][754]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2022.08.13-07.07.30:516][754]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2022.08.13-07.07.30:516][754]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2022.08.13-07.07.30:516][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:517][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:519][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:520][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:522][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:523][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:524][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:525][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:527][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:528][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:529][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:530][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:531][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:533][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:534][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:535][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:536][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:537][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:538][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:540][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:541][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:542][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:544][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:545][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:546][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:547][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:549][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:550][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:552][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:554][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:556][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:558][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:560][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:562][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:565][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:567][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:568][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:570][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:571][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:573][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:575][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:577][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:579][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:581][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:583][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:584][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:586][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:588][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:590][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:592][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:593][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:595][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:598][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:599][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:601][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:603][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:604][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:606][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:608][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:609][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:611][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:613][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:615][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:617][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:619][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:621][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:623][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:626][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:628][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:630][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:633][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:635][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:638][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:640][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:642][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:644][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:646][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:647][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:649][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:651][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:654][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:656][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:659][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:662][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:664][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:666][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:669][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:671][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:673][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:675][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:677][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:679][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:681][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:683][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:686][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:688][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:690][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:692][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:694][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:697][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:699][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:702][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:704][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:708][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:710][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:713][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:715][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:717][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:719][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:721][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:723][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:726][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:728][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:731][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:733][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:736][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:738][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:741][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:743][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:746][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:748][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:751][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:755][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:757][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:760][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:763][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:766][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:769][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:772][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:775][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:778][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:782][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:785][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:789][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:793][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:796][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:799][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:803][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:807][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:812][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:816][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:819][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:822][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:825][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:829][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:833][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:836][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:839][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:842][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:845][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:848][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:851][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:855][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:859][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:862][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:866][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:869][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:875][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:878][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:882][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:885][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:889][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:892][754]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 326
+[2022.08.13-07.07.30:893][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:896][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:898][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:901][754]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 331
+[2022.08.13-07.07.30:901][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:903][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:905][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:907][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:910][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:913][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:916][754]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 342
+[2022.08.13-07.07.30:916][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:919][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:923][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:925][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:928][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:930][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:933][754]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 353
+[2022.08.13-07.07.30:933][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:935][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:937][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:938][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:940][754]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 360
+[2022.08.13-07.07.30:941][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:943][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:946][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:948][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:951][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:954][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:957][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:960][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:964][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:967][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:970][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:973][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:976][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:979][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:982][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:985][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:989][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:992][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:994][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.30:998][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:002][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:006][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:009][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:012][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:016][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:020][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:024][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:028][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:033][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:035][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:037][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:041][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:044][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:047][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:050][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:053][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:058][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:060][754]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 433
+[2022.08.13-07.07.31:061][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:064][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:066][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:070][754]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 438
+[2022.08.13-07.07.31:070][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:073][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:075][754]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 441
+[2022.08.13-07.07.31:075][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:079][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:081][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:084][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:087][754]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 448
+[2022.08.13-07.07.31:087][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:091][754]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 449
+[2022.08.13-07.07.31:091][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:093][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:097][754]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 452
+[2022.08.13-07.07.31:097][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:099][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:102][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:105][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:107][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:110][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:113][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:115][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:118][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:120][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:123][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:125][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:128][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:130][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:132][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:134][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:137][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:139][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:142][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:145][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:148][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:151][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:153][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:157][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:168][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:172][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.31:174][754]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.08.13-07.07.44:467][754]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 507
+[2022.08.13-07.07.44:467][754]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 506
+[2022.08.13-07.07.44:467][754]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 505
+[2022.08.13-07.07.44:467][754]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 504
+[2022.08.13-07.07.44:467][754]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 503
+[2022.08.13-07.07.44:467][754]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 502
+[2022.08.13-07.07.44:467][754]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 501
+[2022.08.13-07.07.44:467][754]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 500
+[2022.08.13-07.07.44:467][754]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 499
+[2022.08.13-07.07.44:467][754]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 498
+[2022.08.13-07.07.44:467][754]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 497
+[2022.08.13-07.07.44:467][754]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 496
+[2022.08.13-07.07.44:467][754]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 495
+[2022.08.13-07.07.44:467][754]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 494
+[2022.08.13-07.07.44:467][754]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 493
+[2022.08.13-07.07.44:467][754]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 492
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 491
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 490
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 489
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 488
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 487
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 486
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 485
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 484
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 483
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 482
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 481
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 480
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 479
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 478
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 477
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 476
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 475
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 474
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 473
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 472
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 471
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 470
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 469
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 468
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 467
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 466
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 465
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 464
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 463
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 462
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 461
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 460
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 459
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 458
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 457
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 456
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 455
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 454
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 453
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 452
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 451
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 450
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 449
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 448
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 447
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 446
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 445
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 444
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 443
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 442
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 441
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 440
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 439
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 438
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 437
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 436
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 435
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 434
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 433
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 432
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 431
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 430
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 429
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 428
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 427
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 426
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 425
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 424
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 423
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 422
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 421
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 420
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 419
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 418
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 417
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 416
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 415
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 414
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 413
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 412
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 411
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 410
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 409
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 408
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 407
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 406
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 405
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 404
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 403
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 402
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 401
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 400
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 399
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 398
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 397
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 396
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 395
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 394
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 393
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 392
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 391
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 390
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 389
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 388
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 387
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 386
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 385
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 384
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 383
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 382
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 381
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 380
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 379
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 378
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 377
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 376
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 375
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 374
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 373
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 372
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 371
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 370
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 369
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 368
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 367
+[2022.08.13-07.07.44:468][754]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 366
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 365
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 364
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 363
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 362
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 361
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 360
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 359
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 358
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 357
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 356
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 355
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 354
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 353
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 352
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 351
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 350
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 349
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 348
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 347
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 346
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 345
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 344
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 343
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 342
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 341
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 340
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 339
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 338
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 337
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 336
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 335
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 334
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 333
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 332
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 331
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 330
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 329
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 328
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 327
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 326
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 325
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 324
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 323
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 322
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 321
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 320
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 319
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 318
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 317
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 316
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 315
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 314
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 313
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 312
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 311
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 310
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 309
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 308
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 307
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 306
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 305
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 304
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 303
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 302
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 301
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 300
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 299
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 298
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 297
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 296
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 295
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 294
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 293
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 292
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 291
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 290
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 289
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 288
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 287
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 286
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 285
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 284
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 283
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 282
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 281
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 280
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 279
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 278
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 277
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 276
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 275
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 274
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 273
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 272
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 271
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 270
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 269
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 268
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 267
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 266
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 265
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 264
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 263
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 262
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 261
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 260
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 259
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 258
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 257
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 256
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 255
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 254
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 253
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 252
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 251
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 250
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 249
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 248
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 247
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 246
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 245
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 244
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 243
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 242
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 241
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 240
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 239
+[2022.08.13-07.07.44:469][754]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 238
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 237
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 236
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 235
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 234
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 233
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 232
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 231
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 230
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 229
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 228
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 227
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 226
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 225
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 224
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 223
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 222
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 221
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 220
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 219
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 218
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 217
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 216
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 215
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 214
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 213
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 212
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 211
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 210
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 209
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 208
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 207
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 206
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 205
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 204
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 203
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 202
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 201
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 200
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 199
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 198
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 197
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 196
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 195
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 194
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 193
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 192
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 191
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 190
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 189
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 188
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 187
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 186
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 185
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 184
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 183
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 182
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 181
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 180
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 179
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 178
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 177
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 176
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 175
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 174
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 173
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 172
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 171
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 170
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 169
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 168
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 167
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 166
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 165
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 164
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 163
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 162
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 161
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 160
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 159
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 158
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 157
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 156
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 155
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 154
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 153
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 152
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 151
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 150
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 149
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 148
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 147
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 146
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 145
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 144
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 143
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 142
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 141
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 140
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 139
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 138
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 137
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 136
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 135
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 134
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 133
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 132
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 131
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 130
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 129
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 128
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 127
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 126
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 125
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 124
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 123
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 122
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 121
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 120
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 119
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 118
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 117
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 116
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 115
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 114
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 113
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 112
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 111
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 110
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 109
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 108
+[2022.08.13-07.07.44:470][754]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 107
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 106
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 105
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 104
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 103
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 102
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 101
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 100
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 99
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 98
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 97
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 96
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 95
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 94
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 93
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 92
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 91
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 90
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 89
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 88
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 87
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 86
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 85
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 84
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 83
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 82
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 81
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 80
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 79
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 78
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 77
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 76
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 75
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 74
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 73
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 72
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 71
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 70
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 69
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 68
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 67
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 66
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 65
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 64
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 63
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 62
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 61
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 60
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 59
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 58
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 57
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 56
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 55
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 54
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 53
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 52
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 51
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 50
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 49
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 48
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 47
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 46
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 45
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 44
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 43
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 42
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 41
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 40
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 39
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 38
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 37
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 36
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 35
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 34
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 33
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 32
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 31
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 30
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 29
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 28
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 27
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 26
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 25
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 24
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 23
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 22
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 21
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 20
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 19
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 18
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 17
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 16
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 15
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 14
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 13
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 12
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 11
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 10
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 8
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.08.13-07.07.44:471][754]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2022.08.13-07.07.44:471][754]TextureStreamingBuild: Display: Compiling optional shaders took 13.967 seconds.
+[2022.08.13-07.07.45:056][754]LogLevel: Display: Export Material TexCoord Scales took 0.585 seconds.
+[2022.08.13-07.07.45:070][754]TextureStreamingBuild: Display: Build Texture Streaming took 0.013 seconds.
+[2022.08.13-07.07.45:074][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.08.13-07.07.45:079][754]LightingResults: New page: Lighting Build - Aug 12, 2022, 5:07:45 PM
+[2022.08.13-07.07.45:090][754]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.08.13-07.07.45:100][754]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.08.13-07.07.45:101][754]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.08.13-07.07.45:104][754]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.08.13-07.07.45:104][754]LogSwarmInterface: [TryOpenConnection] Local Process ID is 27640
+[2022.08.13-07.07.49:684][754]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.08.13-07.07.49:685][754]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.08.13-07.07.49:685][754]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.08.13-07.07.49:685][754]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.08.13-07.07.49:685][754]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.08.13-07.07.49:685][754]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.08.13-07.07.49:767][754]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.08.13-07.07.49:767][754]MapCheck: New page: TestMap - Aug 12, 2022, 5:07:49 PM
+[2022.08.13-07.07.49:768][754]MapCheck: Warning: ChairPickUp_2 Static mesh actor has NULL StaticMesh property 
+[2022.08.13-07.07.49:768][754]MapCheck: Warning: ChairPickUp2_5 Static mesh actor has NULL StaticMesh property 
+[2022.08.13-07.07.49:768][754]MapCheck: Warning: ChairPickUp3_8 Static mesh actor has NULL StaticMesh property 
+[2022.08.13-07.07.49:768][754]MapCheck: Warning: ChairConstruction_2 Static mesh actor has NULL StaticMesh property 
+[2022.08.13-07.07.49:768][754]MapCheck: Map check complete: 0 Error(s), 4 Warning(s), took 1.17ms to complete.
+[2022.08.13-07.07.49:771][754]LogEditorBuildUtils: Build time 0:19
+[2022.08.13-07.07.50:036][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.08.13-07.07.50:086][755]LogSavePackage: Moving '../../../../../../Users/racer/OneDrive/Documents/GitHub/LD2/LevelDesign2/Saved/TestMap_Auto4F2EBE3F146B23E8922253EB595E8B5D5.tmp' to '../../../../../../Users/racer/OneDrive/Documents/GitHub/LD2/LevelDesign2/Saved/Autosaves/Game/FirstPersonBP/Maps/TestMap_Auto4.umap'
+[2022.08.13-07.07.50:090][755]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/TestMap' took 0.059
+[2022.08.13-07.07.50:090][755]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.059
+[2022.08.13-07.07.50:155][755]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface48, compiling. 
+[2022.08.13-07.07.50:157][755]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface48, compiling. 
+[2022.08.13-07.07.50:159][755]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ZBirchVenure, compiling. 
+[2022.08.13-07.07.50:161][755]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ZBirchVenure, compiling. 
+[2022.08.13-07.07.50:163][755]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 8
+[2022.08.13-07.07.50:163][755]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2022.08.13-07.07.50:163][755]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 6
+[2022.08.13-07.07.50:163][755]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 5
+[2022.08.13-07.07.50:163][755]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2022.08.13-07.07.50:163][755]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2022.08.13-07.07.50:163][755]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2022.08.13-07.07.50:163][755]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2022.08.13-07.07.50:163][755]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface36, compiling. 
+[2022.08.13-07.07.50:165][755]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface36, compiling. 
+[2022.08.13-07.07.50:199][755]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2022.08.13-07.07.50:199][755]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2022.08.13-07.07.50:200][755]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2022.08.13-07.07.50:200][755]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2022.08.13-07.07.50:226][756]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface4, compiling. 
+[2022.08.13-07.07.50:230][756]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface4, compiling. 
+[2022.08.13-07.07.50:234][756]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface39, compiling. 
+[2022.08.13-07.07.50:238][756]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface39, compiling. 
+[2022.08.13-07.07.50:319][757]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface37, compiling. 
+[2022.08.13-07.07.50:324][757]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface37, compiling. 
+[2022.08.13-07.07.50:382][758]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface38, compiling. 
+[2022.08.13-07.07.50:387][758]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface38, compiling. 
+[2022.08.13-07.07.50:435][759]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer JessRoomSet_Fridge_TEX_02, compiling. 
+[2022.08.13-07.07.50:442][759]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer JessRoomSet_Fridge_TEX_02, compiling. 
+[2022.08.13-07.07.50:494][760]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer JessRoomSet_GEO_GJessRoomSet_KitchenCounter_TEX_01, compiling. 
+[2022.08.13-07.07.50:499][760]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer JessRoomSet_GEO_GJessRoomSet_KitchenCounter_TEX_01, compiling. 
+[2022.08.13-07.07.50:545][761]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer JessRoomSet_BambooWoodMat_TEX_01, compiling. 
+[2022.08.13-07.07.50:569][761]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer JessRoomSet_BambooWoodMat_TEX_01, compiling. 
+[2022.08.13-07.07.50:619][762]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface46, compiling. 
+[2022.08.13-07.07.50:624][762]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface46, compiling. 
+[2022.08.13-07.07.50:660][763]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface23, compiling. 
+[2022.08.13-07.07.50:665][763]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface23, compiling. 
+[2022.08.13-07.07.50:708][764]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ZEndtable, compiling. 
+[2022.08.13-07.07.50:713][764]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ZEndtable, compiling. 
+[2022.08.13-07.07.50:759][765]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface21, compiling. 
+[2022.08.13-07.07.50:770][765]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface21, compiling. 
+[2022.08.13-07.07.50:814][766]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface40, compiling. 
+[2022.08.13-07.07.50:818][766]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface40, compiling. 
+[2022.08.13-07.07.50:850][767]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer GalaxyLampShade, compiling. 
+[2022.08.13-07.07.50:856][767]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 48
+[2022.08.13-07.07.50:856][767]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer GalaxyLampShade, compiling. 
+[2022.08.13-07.07.50:869][768]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 47
+[2022.08.13-07.07.50:869][768]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 43
+[2022.08.13-07.07.50:869][768]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 39
+[2022.08.13-07.07.50:873][768]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 35
+[2022.08.13-07.07.50:879][768]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 32
+[2022.08.13-07.07.50:885][768]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 29
+[2022.08.13-07.07.50:894][768]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 26
+[2022.08.13-07.07.50:913][768]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 23
+[2022.08.13-07.07.50:913][768]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Space_Rug, compiling. 
+[2022.08.13-07.07.50:917][768]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Space_Rug, compiling. 
+[2022.08.13-07.07.50:965][769]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 25
+[2022.08.13-07.07.50:965][769]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 22
+[2022.08.13-07.07.50:965][769]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 20
+[2022.08.13-07.07.50:989][769]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer zBlackWood, compiling. 
+[2022.08.13-07.07.50:995][769]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer zBlackWood, compiling. 
+[2022.08.13-07.07.51:131][771]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface5, compiling. 
+[2022.08.13-07.07.51:140][771]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface5, compiling. 
+[2022.08.13-07.07.51:240][772]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface7, compiling. 
+[2022.08.13-07.07.51:246][772]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface7, compiling. 
+[2022.08.13-07.07.51:302][773]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LivingRoomTable, compiling. 
+[2022.08.13-07.07.51:309][773]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LivingRoomTable, compiling. 
+[2022.08.13-07.07.51:362][774]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer TableStool, compiling. 
+[2022.08.13-07.07.51:366][774]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer TableStool, compiling. 
+[2022.08.13-07.07.51:425][775]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer pasted__TableStool2, compiling. 
+[2022.08.13-07.07.51:429][775]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer pasted__TableStool2, compiling. 
+[2022.08.13-07.07.51:477][776]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer pasted__TableStool1, compiling. 
+[2022.08.13-07.07.51:482][776]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer pasted__TableStool1, compiling. 
+[2022.08.13-07.07.51:528][777]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface41, compiling. 
+[2022.08.13-07.07.51:542][777]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface41, compiling. 
+[2022.08.13-07.07.51:583][778]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface42, compiling. 
+[2022.08.13-07.07.51:587][778]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface42, compiling. 
+[2022.08.13-07.07.51:592][778]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface43, compiling. 
+[2022.08.13-07.07.51:596][778]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface43, compiling. 
+[2022.08.13-07.07.51:626][779]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface44, compiling. 
+[2022.08.13-07.07.51:630][779]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface44, compiling. 
+[2022.08.13-07.07.51:634][779]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface45, compiling. 
+[2022.08.13-07.07.51:639][779]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface45, compiling. 
+[2022.08.13-07.07.51:665][780]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ZCloset, compiling. 
+[2022.08.13-07.07.51:669][780]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ZCloset, compiling. 
+[2022.08.13-07.07.51:725][782]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ZBrownWood1, compiling. 
+[2022.08.13-07.07.51:728][782]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ZBrownWood1, compiling. 
+[2022.08.13-07.07.51:732][782]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface26, compiling. 
+[2022.08.13-07.07.51:744][782]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface26, compiling. 
+[2022.08.13-07.07.51:773][783]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ZBlueRug1, compiling. 
+[2022.08.13-07.07.51:781][783]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ZBlueRug1, compiling. 
+[2022.08.13-07.07.51:829][784]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ZCounter1, compiling. 
+[2022.08.13-07.07.51:836][784]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ZCounter1, compiling. 
+[2022.08.13-07.07.51:910][785]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ZBeigeLampShade1, compiling. 
+[2022.08.13-07.07.51:914][785]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ZBeigeLampShade1, compiling. 
+[2022.08.13-07.07.52:011][787]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer pasted__ZHandle1, compiling. 
+[2022.08.13-07.07.52:015][787]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer pasted__ZHandle1, compiling. 
+[2022.08.13-07.07.52:021][787]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Sink1, compiling. 
+[2022.08.13-07.07.52:025][787]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Sink1, compiling. 
+[2022.08.13-07.07.52:071][788]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Microwave1, compiling. 
+[2022.08.13-07.07.52:075][788]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Microwave1, compiling. 
+[2022.08.13-07.07.52:080][788]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer PingpongnetWoundup_TEX1, compiling. 
+[2022.08.13-07.07.52:084][788]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer PingpongnetWoundup_TEX1, compiling. 
+[2022.08.13-07.07.52:143][789]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface28, compiling. 
+[2022.08.13-07.07.52:148][789]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface28, compiling. 
+[2022.08.13-07.07.52:190][790]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ZCounter, compiling. 
+[2022.08.13-07.07.52:194][790]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ZCounter, compiling. 
+[2022.08.13-07.07.52:198][790]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface14, compiling. 
+[2022.08.13-07.07.52:203][790]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface14, compiling. 
+[2022.08.13-07.07.52:283][792]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface15, compiling. 
+[2022.08.13-07.07.52:286][792]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface15, compiling. 
+[2022.08.13-07.07.52:290][792]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Sink, compiling. 
+[2022.08.13-07.07.52:294][792]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Sink, compiling. 
+[2022.08.13-07.07.52:340][794]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 126
+[2022.08.13-07.07.52:353][794]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 116
+[2022.08.13-07.07.52:353][794]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BathroomSinkCounter_Texture, compiling. 
+[2022.08.13-07.07.52:357][794]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BathroomSinkCounter_Texture, compiling. 
+[2022.08.13-07.07.52:378][795]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 110
+[2022.08.13-07.07.52:437][796]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface22, compiling. 
+[2022.08.13-07.07.52:444][796]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface22, compiling. 
+[2022.08.13-07.07.52:499][797]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface17, compiling. 
+[2022.08.13-07.07.52:503][797]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface17, compiling. 
+[2022.08.13-07.07.52:565][798]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface16, compiling. 
+[2022.08.13-07.07.52:570][798]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface16, compiling. 
+[2022.08.13-07.07.52:625][799]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ZBrownWood1_ncl1_1, compiling. 
+[2022.08.13-07.07.52:630][799]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer ZBrownWood1_ncl1_1, compiling. 
+[2022.08.13-07.07.52:675][800]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LivingRoomTable1, compiling. 
+[2022.08.13-07.07.52:679][800]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LivingRoomTable1, compiling. 
+[2022.08.13-07.07.52:684][800]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer zBlackWood1, compiling. 
+[2022.08.13-07.07.52:688][800]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer zBlackWood1, compiling. 
+[2022.08.13-07.07.52:743][801]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface28_ncl1_1, compiling. 
+[2022.08.13-07.07.52:747][801]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface28_ncl1_1, compiling. 
+[2022.08.13-07.07.52:784][801]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 128
+[2022.08.13-07.07.52:807][802]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer shelf6, compiling. 
+[2022.08.13-07.07.52:810][802]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer shelf6, compiling. 
+[2022.08.13-07.07.52:849][802]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 122
+[2022.08.13-07.07.52:849][802]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 112
+[2022.08.13-07.07.52:849][802]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 102
+[2022.08.13-07.07.52:871][803]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface35, compiling. 
+[2022.08.13-07.07.52:875][803]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface35, compiling. 
+[2022.08.13-07.07.52:943][804]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 97
+[2022.08.13-07.07.52:943][804]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface17_ncl1_1, compiling. 
+[2022.08.13-07.07.52:947][804]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface17_ncl1_1, compiling. 
+[2022.08.13-07.07.53:036][805]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface17_ncl1_2, compiling. 
+[2022.08.13-07.07.53:042][805]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer aiStandardSurface17_ncl1_2, compiling. 
+[2022.08.13-07.08.00:404][808]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 96
+[2022.08.13-07.08.00:404][808]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 87
+[2022.08.13-07.08.00:404][808]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 79
+[2022.08.13-07.08.00:404][808]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 72
+[2022.08.13-07.08.00:404][808]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 65
+[2022.08.13-07.08.00:404][808]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 59
+[2022.08.13-07.08.00:404][808]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 54
+[2022.08.13-07.08.00:404][808]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 49
+[2022.08.13-07.08.00:404][808]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 44
+[2022.08.13-07.08.00:404][808]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 40
+[2022.08.13-07.08.00:404][808]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 36
+[2022.08.13-07.08.00:404][808]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 32
+[2022.08.13-07.08.00:404][808]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 28
+[2022.08.13-07.08.00:404][808]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 25
+[2022.08.13-07.08.00:404][808]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 22
+[2022.08.13-07.08.00:404][808]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 20
+[2022.08.13-07.08.00:404][808]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 18
+[2022.08.13-07.08.00:404][808]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 16
+[2022.08.13-07.08.00:404][808]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 14
+[2022.08.13-07.08.00:404][808]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 12
+[2022.08.13-07.08.00:404][808]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 10
+[2022.08.13-07.08.00:404][808]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 9
+[2022.08.13-07.08.00:404][808]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 8
+[2022.08.13-07.08.00:404][808]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 7
+[2022.08.13-07.08.00:404][808]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 6
+[2022.08.13-07.08.00:404][808]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 5
+[2022.08.13-07.08.00:404][808]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2022.08.13-07.08.00:404][808]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2022.08.13-07.08.00:404][808]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2022.08.13-07.08.00:404][808]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2022.08.13-07.08.03:732][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.08.13-07.08.10:813][928]LightingResults: Warning: LevelWhitebox_GEO_MMarent_V11 Object has overlapping UVs.
+[2022.08.13-07.08.10:813][928]LightingResults: LevelWhitebox_GEO_MMarent_V11 Lightmap UV are overlapping by 22.5%. Please adjust content - Enable Error Coloring to visualize.
+[2022.08.13-07.08.27:255][977]Job is a success!
+[2022.08.13-07.08.27:680][978]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.016s
+[2022.08.13-07.08.27:680][978]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.08.13-07.08.27:680][978]LogVolumetricLightmapImport:      BrickData (all levels) 0.5Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2022.08.13-07.08.27:680][978]LogVolumetricLightmapImport:      Bricks at depth
+[2022.08.13-07.08.27:680][978]LogVolumetricLightmapImport:          0: 0.9% covering 100.0% of volume
+[2022.08.13-07.08.27:680][978]LogVolumetricLightmapImport:          1: 17.1% covering 31.2% of volume
+[2022.08.13-07.08.27:680][978]LogVolumetricLightmapImport:          2: 82.1% covering 2.3% of volume
+[2022.08.13-07.08.27:680][978]LogVolumetricLightmapImport:      Bricks in each level
+[2022.08.13-07.08.27:680][978]LogVolumetricLightmapImport:          TestMap 			 117 bricks 	 100.0% (Persistent Level)
+[2022.08.13-07.08.27:707][978]LightingResults: Warning: PointLight16_18 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.08.13-07.08.27:708][978]LightingResults: Warning: PointLight34_40 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.08.13-07.08.27:708][978]LightingResults: Warning: PointLight22_3 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.08.13-07.08.27:708][978]LightingResults: Warning: PointLight35_43 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.08.13-07.08.27:708][978]LightingResults: Warning: PointLight31_33 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.08.13-07.08.27:708][978]LightingResults: Warning: PointLight21_31 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.08.13-07.08.27:708][978]LightingResults: Warning: PointLight19_25 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.08.13-07.08.27:708][978]LightingResults: Warning: PointLight17_21 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.08.13-07.08.27:708][978]LightingResults: Warning: PointLight20_28 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.08.13-07.08.27:708][978]LightingResults: Warning: PointLight18 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.08.13-07.08.27:708][978]LightingResults: Warning: PointLight10_6 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.08.13-07.08.27:708][978]LightingResults: Warning: PointLight4_9 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.08.13-07.08.27:708][978]LightingResults: Warning: PointLight32_36 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.08.13-07.08.27:708][978]LightingResults: Warning: PointLight11 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.08.13-07.08.27:708][978]LightingResults: Warning: PointLight12_8 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.08.13-07.08.27:708][978]LightingResults: Warning: PointLight5_12 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.08.13-07.08.27:708][978]LightingResults: Warning: PointLight26_18 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.08.13-07.08.27:708][978]LightingResults: Warning: PointLight7_16 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.08.13-07.08.27:708][978]LightingResults: Warning: PointLight25_15 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.08.13-07.08.27:708][978]LightingResults: Warning: PointLight14_12 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2022.08.13-07.08.27:842][978]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2022.08.13-07.08.27:842][978]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2022.08.13-07.08.27:842][978]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X256)
+[2022.08.13-07.08.27:849][978]Lightmass on MSI: 23.6 sec total, 729 ms importing, 306 ms setup, 4.41 sec photons, 18.0 sec processing, 0 ms extra exporting [39/39 mappings]. Threads: 4:31 min total, 20.8 sec processing.
+[2022.08.13-07.08.27:853][978]LogStaticLightingSystem: TestMap_BuiltData storing lightmap data for 39 meshes in 2 LightmapResourceClusters (19.5 Meshes per cluster).
+[2022.08.13-07.08.27:865][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.08.13-07.08.27:879][978]LogStaticLightingSystem: Illumination: 42.4 sec (97 ms encoding lightmaps, 33 ms encoding shadowmaps)
+[2022.08.13-07.08.27:879][978]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2022.08.13-07.08.27:879][978]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 1 textures
+[2022.08.13-07.08.28:721][978]DumpUnbuiltLightIteractions
+[2022.08.13-07.08.28:721][978]Lights with unbuilt interactions: 0
+[2022.08.13-07.08.28:721][978]
+[2022.08.13-07.08.28:721][978]Primitives with unbuilt interactions: 0
+[2022.08.13-07.08.28:761][979]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.08.13-07.08.28:761][979]MapCheck: New page: TestMap - Aug 12, 2022, 5:08:28 PM
+[2022.08.13-07.08.28:761][979]MapCheck: Warning: ChairPickUp_2 Static mesh actor has NULL StaticMesh property 
+[2022.08.13-07.08.28:761][979]MapCheck: Warning: ChairPickUp2_5 Static mesh actor has NULL StaticMesh property 
+[2022.08.13-07.08.28:761][979]MapCheck: Warning: ChairPickUp3_8 Static mesh actor has NULL StaticMesh property 
+[2022.08.13-07.08.28:761][979]MapCheck: Warning: ChairConstruction_2 Static mesh actor has NULL StaticMesh property 
+[2022.08.13-07.08.28:762][979]MapCheck: Map check complete: 0 Error(s), 4 Warning(s), took 0.652ms to complete.
+[2022.08.13-07.17.51:653][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.08.13-07.17.51:666][654]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/TestMap' took 0.018
+[2022.08.13-07.27.52:111][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.08.13-07.27.52:120][441]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/TestMap' took 0.013
+[2022.08.13-07.37.52:844][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.08.13-07.37.52:853][229]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPersonBP/Maps/TestMap' took 0.012
+[2022.08.13-07.40.33:745][716]LogSlate: Window 'Message Log' being destroyed
+[2022.08.13-07.40.33:750][716]LogSlate: Window 'Message Log' being destroyed
+[2022.08.13-07.40.37:938][963]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.08.13-07.40.44:454][963]LogSlate: Window 'Save Content' being destroyed
+[2022.08.13-07.40.44:544][963]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.08.13-07.40.44:586][963]LogSavePackage: Moving '../../../../../../Users/racer/OneDrive/Documents/GitHub/LD2/LevelDesign2/Saved/TestMapA202BB6544C8A8E72E47A582B913CB7E.tmp' to '../../../../../../Users/racer/OneDrive/Documents/GitHub/LD2/LevelDesign2/Content/FirstPersonBP/Maps/TestMap.umap'
+[2022.08.13-07.40.44:597][963]LogFileHelpers: Saving map 'TestMap' took 0.057
+[2022.08.13-07.40.44:622][963]LogSavePackage: Moving '../../../../../../Users/racer/OneDrive/Documents/GitHub/LD2/LevelDesign2/Saved/TestMap_BuiltData82720B884F45988E4B0C5F96CF034711.tmp' to '../../../../../../Users/racer/OneDrive/Documents/GitHub/LD2/LevelDesign2/Content/FirstPersonBP/Maps/TestMap_BuiltData.uasset'
+[2022.08.13-07.40.44:996][963]LogWorld: UWorld::CleanupWorld for World_131, bSessionEnded=true, bCleanupResources=true
+[2022.08.13-07.40.44:996][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.13-07.40.45:029][963]LogSlate: Window 'LevelDesign2 - Unreal Editor' being destroyed
+[2022.08.13-07.40.45:372][963]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.13-07.40.45:372][963]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/TestMap_BuiltData.TestMap_BuiltData
+[2022.08.13-07.40.45:372][963]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/TestMap.TestMap
+[2022.08.13-07.40.45:374][964]Cmd: QUIT_EDITOR
+[2022.08.13-07.40.45:374][964]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.08.13-07.40.45:384][964]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.08.13-07.40.45:583][964]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.08.13-07.40.45:583][964]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.08.13-07.40.45:583][964]LogAudio: Display: Audio Device unregistered from world 'TestMap'.
+[2022.08.13-07.40.45:583][964]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.13-07.40.45:585][964]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.13-07.40.45:633][964]LogAudio: Display: Audio Device Manager Shutdown
+[2022.08.13-07.40.45:634][964]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.08.13-07.40.45:643][964]LogExit: Preparing to exit.
+[2022.08.13-07.40.46:557][964]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.08.13-07.40.46:750][964]LogDeviceProfile: Device profile begin destroy: [000001F47E5A7500] Windows
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E5A7400] Default__DeviceProfile
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E594D00] WindowsNoEditor
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E5A4D00] WindowsServer
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E596E00] WindowsClient
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E5A6D00] IOS
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E595500] iPadAir
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E5A5400] iPadAir2
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E558900] IPadPro
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E558A00] iPadAir3
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E5A6800] iPadAir4
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E55B600] iPadMini2
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E5A5800] iPadMini3
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E55A000] iPadMini4
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E5A4B00] iPadMini5
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E594B00] iPhone6
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E547F00] iPodTouch6
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E596800] iPhone7
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E596900] iPodTouch7
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E545200] iPhone5S
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E596000] iPhone6Plus
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E546900] iPhone6S
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E594300] iPhone6SPlus
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E545900] iPhone7Plus
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E595400] iPhoneSE
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E544C00] iPhone8
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E595700] iPhone8Plus
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E544B00] iPhoneX
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E597900] iPhoneXS
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E547C00] iPhoneXSMax
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E594200] iPhoneXR
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E544F00] iPhone11
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E595300] iPhone11Pro
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E546C00] iPhone11ProMax
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E597100] iPhoneSE2
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E547B00] iPhone12Mini
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E596A00] iPhone12
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E547800] iPhone12Pro
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E595200] iPhone12ProMax
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E547D00] iPadPro105
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E597F00] iPadPro129
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E547900] iPadPro97
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E596600] iPadPro2_129
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E546700] iPad5
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E595600] iPad6
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E546A00] iPad7
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E594400] iPad8
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E546400] iPadPro11
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E596500] iPadPro2_11
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E544500] iPadPro3_129
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E596400] iPadPro4_129
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E546F00] AppleTV
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E596100] AppleTV4K
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E544900] TVOS
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E596D00] Mac
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E545F00] MacClient
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E594600] MacNoEditor
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E544400] MacServer
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E597200] Linux
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E545C00] LinuxAArch64
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E597A00] LinuxNoEditor
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E61D000] LinuxAArch64NoEditor
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E5A6100] LinuxClient
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E61C300] LinuxAArch64Client
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E5A4700] LinuxServer
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E61D500] LinuxAArch64Server
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E5A7C00] Android
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E61C100] Android_Low
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E5A6700] Android_Mid
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E61D300] Android_High
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E5A4200] Android_Default
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E61C600] Android_Adreno4xx
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E5A4900] Android_Adreno5xx_Low
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E595A00] Android_Adreno5xx
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E547000] Android_Adreno6xx
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E594700] Android_Adreno6xx_Vulkan
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E544600] Android_Mali_T6xx
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E597600] Android_Mali_T7xx
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E545400] Android_Mali_T8xx
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E594F00] Android_Mali_G71
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E546E00] Android_Mali_G72
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E594E00] Android_Mali_G72_Vulkan
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E546500] Android_Mali_G76
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E595100] Android_Mali_G76_Vulkan
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E545100] Android_Mali_G77
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E595000] Android_Mali_G77_Vulkan
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E544100] Android_Vulkan_SM5
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E597E00] Android_PowerVR_G6xxx
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E544E00] Android_PowerVR_GT7xxx
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E596300] Android_PowerVR_GE8xxx
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E546600] Android_PowerVR_GM9xxx
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E597500] Android_PowerVR_GM9xxx_Vulkan
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E544200] Android_TegraK1
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E596200] Android_Unknown_Vulkan
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E61CB00] Lumin
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E595D00] Lumin_Desktop
+[2022.08.13-07.40.46:751][964]LogDeviceProfile: Device profile begin destroy: [000001F47E61DC00] HoloLens
+[2022.08.13-07.40.46:774][964]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.08.13-07.40.46:774][964]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.08.13-07.40.46:858][964]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.08.13-07.40.46:859][964]LogExit: Editor shut down
+[2022.08.13-07.40.46:861][964]LogExit: Transaction tracking system shut down
+[2022.08.13-07.40.46:863][964]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.08.13-07.40.47:275][964]LogExit: Object subsystem successfully closed.
+[2022.08.13-07.40.47:317][964]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.08.13-07.40.47:403][964]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (840)
+[2022.08.13-07.40.47:403][964]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (838)
+[2022.08.13-07.40.47:403][964]LogModuleManager: Shutting down and abandoning module Voice (836)
+[2022.08.13-07.40.47:403][964]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (834)
+[2022.08.13-07.40.47:403][964]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (832)
+[2022.08.13-07.40.47:403][964]LogModuleManager: Shutting down and abandoning module SceneOutliner (830)
+[2022.08.13-07.40.47:403][964]LogModuleManager: Shutting down and abandoning module AddContentDialog (828)
+[2022.08.13-07.40.47:408][964]LogModuleManager: Shutting down and abandoning module WidgetCarousel (827)
+[2022.08.13-07.40.47:408][964]LogModuleManager: Shutting down and abandoning module EditorWidgets (824)
+[2022.08.13-07.40.47:408][964]LogModuleManager: Shutting down and abandoning module StatsViewer (822)
+[2022.08.13-07.40.47:409][964]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (820)
+[2022.08.13-07.40.47:409][964]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (818)
+[2022.08.13-07.40.47:409][964]LogModuleManager: Shutting down and abandoning module AutomationWorker (816)
+[2022.08.13-07.40.47:409][964]LogModuleManager: Shutting down and abandoning module SteamVREditor (814)
+[2022.08.13-07.40.47:409][964]LogModuleManager: Shutting down and abandoning module OculusMR (812)
+[2022.08.13-07.40.47:409][964]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (810)
+[2022.08.13-07.40.47:410][964]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (808)
+[2022.08.13-07.40.47:410][964]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (806)
+[2022.08.13-07.40.47:411][964]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (804)
+[2022.08.13-07.40.47:412][964]LogModuleManager: Shutting down and abandoning module GooglePADEditor (802)
+[2022.08.13-07.40.47:412][964]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (800)
+[2022.08.13-07.40.47:412][964]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (798)
+[2022.08.13-07.40.47:412][964]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (796)
+[2022.08.13-07.40.47:412][964]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (794)
+[2022.08.13-07.40.47:412][964]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (792)
+[2022.08.13-07.40.47:412][964]LogModuleManager: Shutting down and abandoning module WebMMedia (790)
+[2022.08.13-07.40.47:412][964]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (788)
+[2022.08.13-07.40.47:413][964]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (786)
+[2022.08.13-07.40.47:413][964]LogModuleManager: Shutting down and abandoning module SequenceRecorder (785)
+[2022.08.13-07.40.47:414][964]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (782)
+[2022.08.13-07.40.47:414][964]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (780)
+[2022.08.13-07.40.47:414][964]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (778)
+[2022.08.13-07.40.47:414][964]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (776)
+[2022.08.13-07.40.47:414][964]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (774)
+[2022.08.13-07.40.47:414][964]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (772)
+[2022.08.13-07.40.47:414][964]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (770)
+[2022.08.13-07.40.47:414][964]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (768)
+[2022.08.13-07.40.47:414][964]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (766)
+[2022.08.13-07.40.47:414][964]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (764)
+[2022.08.13-07.40.47:414][964]LogModuleManager: Shutting down and abandoning module PlanarCut (762)
+[2022.08.13-07.40.47:414][964]LogModuleManager: Shutting down and abandoning module CharacterAI (760)
+[2022.08.13-07.40.47:414][964]LogModuleManager: Shutting down and abandoning module TextureAlignMode (758)
+[2022.08.13-07.40.47:414][964]LogModuleManager: Shutting down and abandoning module BspMode (756)
+[2022.08.13-07.40.47:414][964]LogModuleManager: Shutting down and abandoning module GeometryMode (754)
+[2022.08.13-07.40.47:415][964]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (752)
+[2022.08.13-07.40.47:415][964]LogModuleManager: Shutting down and abandoning module SmartSnapping (750)
+[2022.08.13-07.40.47:415][964]LogModuleManager: Shutting down and abandoning module SessionServices (748)
+[2022.08.13-07.40.47:415][964]LogModuleManager: Shutting down and abandoning module MeshPaint (746)
+[2022.08.13-07.40.47:416][964]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (744)
+[2022.08.13-07.40.47:416][964]LogModuleManager: Shutting down and abandoning module FoliageEdit (742)
+[2022.08.13-07.40.47:417][964]LogModuleManager: Shutting down and abandoning module LandscapeEditor (740)
+[2022.08.13-07.40.47:418][964]LogModuleManager: Shutting down and abandoning module MeshPaintMode (738)
+[2022.08.13-07.40.47:418][964]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (736)
+[2022.08.13-07.40.47:418][964]LogModuleManager: Shutting down and abandoning module ActorPickerMode (734)
+[2022.08.13-07.40.47:418][964]LogModuleManager: Shutting down and abandoning module PlacementMode (732)
+[2022.08.13-07.40.47:418][964]LogModuleManager: Shutting down and abandoning module ViewportSnapping (730)
+[2022.08.13-07.40.47:418][964]LogModuleManager: Shutting down and abandoning module ViewportInteraction (728)
+[2022.08.13-07.40.47:418][964]LogModuleManager: Shutting down and abandoning module ClothPainter (726)
+[2022.08.13-07.40.47:419][964]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (725)
+[2022.08.13-07.40.47:420][964]LogModuleManager: Shutting down and abandoning module LogVisualizer (722)
+[2022.08.13-07.40.47:421][964]LogModuleManager: Shutting down and abandoning module IntroTutorials (720)
+[2022.08.13-07.40.47:428][964]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (719)
+[2022.08.13-07.40.47:429][964]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (716)
+[2022.08.13-07.40.47:429][964]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (714)
+[2022.08.13-07.40.47:429][964]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (712)
+[2022.08.13-07.40.47:429][964]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (711)
+[2022.08.13-07.40.48:381][964]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (708)
+[2022.08.13-07.40.48:381][964]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (706)
+[2022.08.13-07.40.48:381][964]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (704)
+[2022.08.13-07.40.48:381][964]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (702)
+[2022.08.13-07.40.48:381][964]LogModuleManager: Shutting down and abandoning module TraceInsights (700)
+[2022.08.13-07.40.48:388][964]MemoryProfiler: Shutdown
+[2022.08.13-07.40.48:388][964]NetworkingProfiler: Shutdown
+[2022.08.13-07.40.48:388][964]LoadingProfiler: Shutdown
+[2022.08.13-07.40.48:389][964]TimingProfiler: Shutdown
+[2022.08.13-07.40.48:391][964]LogModuleManager: Shutting down and abandoning module TraceServices (699)
+[2022.08.13-07.40.48:392][964]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (696)
+[2022.08.13-07.40.48:392][964]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (694)
+[2022.08.13-07.40.48:392][964]LogModuleManager: Shutting down and abandoning module InputBindingEditor (692)
+[2022.08.13-07.40.48:393][964]LogModuleManager: Shutting down and abandoning module MergeActors (690)
+[2022.08.13-07.40.48:393][964]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (688)
+[2022.08.13-07.40.48:394][964]LogModuleManager: Shutting down and abandoning module LocalizationService (687)
+[2022.08.13-07.40.48:394][964]LogModuleManager: Shutting down and abandoning module HardwareTargeting (684)
+[2022.08.13-07.40.48:394][964]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (682)
+[2022.08.13-07.40.48:395][964]LogModuleManager: Shutting down and abandoning module UndoHistory (680)
+[2022.08.13-07.40.48:395][964]LogModuleManager: Shutting down and abandoning module XmlParser (678)
+[2022.08.13-07.40.48:395][964]LogModuleManager: Shutting down and abandoning module Blutility (676)
+[2022.08.13-07.40.48:395][964]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (674)
+[2022.08.13-07.40.48:395][964]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (673)
+[2022.08.13-07.40.48:395][964]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (670)
+[2022.08.13-07.40.48:395][964]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (669)
+[2022.08.13-07.40.48:395][964]LogModuleManager: Shutting down and abandoning module SettingsEditor (666)
+[2022.08.13-07.40.48:396][964]LogModuleManager: Shutting down and abandoning module ProjectLauncher (664)
+[2022.08.13-07.40.48:397][964]LogModuleManager: Shutting down and abandoning module SessionFrontend (662)
+[2022.08.13-07.40.48:397][964]LogModuleManager: Shutting down and abandoning module ProfilerClient (660)
+[2022.08.13-07.40.48:397][964]LogModuleManager: Shutting down and abandoning module DeviceManager (658)
+[2022.08.13-07.40.48:398][964]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (657)
+[2022.08.13-07.40.48:431][964]LogModuleManager: Shutting down and abandoning module AutomationController (654)
+[2022.08.13-07.40.48:431][964]LogModuleManager: Shutting down and abandoning module AutomationWindow (652)
+[2022.08.13-07.40.48:432][964]LogModuleManager: Shutting down and abandoning module Layers (650)
+[2022.08.13-07.40.48:434][964]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (648)
+[2022.08.13-07.40.48:434][964]LogModuleManager: Shutting down and abandoning module DetailCustomizations (646)
+[2022.08.13-07.40.48:434][964]LogModuleManager: Shutting down and abandoning module PackagesDialog (644)
+[2022.08.13-07.40.48:434][964]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (642)
+[2022.08.13-07.40.48:435][964]LogModuleManager: Shutting down and abandoning module Persona (640)
+[2022.08.13-07.40.48:436][964]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (639)
+[2022.08.13-07.40.48:436][964]LogModuleManager: Shutting down and abandoning module AnimGraph (637)
+[2022.08.13-07.40.48:437][964]LogModuleManager: Shutting down and abandoning module Kismet (634)
+[2022.08.13-07.40.48:438][964]LogModuleManager: Shutting down and abandoning module KismetWidgets (633)
+[2022.08.13-07.40.48:438][964]LogModuleManager: Shutting down and abandoning module GraphEditor (630)
+[2022.08.13-07.40.48:439][964]LogModuleManager: Shutting down and abandoning module StructViewer (628)
+[2022.08.13-07.40.48:439][964]LogModuleManager: Shutting down and abandoning module ClassViewer (626)
+[2022.08.13-07.40.48:439][964]LogModuleManager: Shutting down and abandoning module Toolbox (624)
+[2022.08.13-07.40.48:439][964]LogModuleManager: Shutting down and abandoning module ModuleUI (622)
+[2022.08.13-07.40.48:439][964]LogModuleManager: Shutting down and abandoning module OutputLog (620)
+[2022.08.13-07.40.48:515][964]LogModuleManager: Shutting down and abandoning module GammaUI (618)
+[2022.08.13-07.40.48:516][964]LogModuleManager: Shutting down and abandoning module Documentation (616)
+[2022.08.13-07.40.48:516][964]LogModuleManager: Shutting down and abandoning module LiveCoding (614)
+[2022.08.13-07.40.48:517][964]LogModuleManager: Shutting down and abandoning module LevelSequence (612)
+[2022.08.13-07.40.48:517][964]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (610)
+[2022.08.13-07.40.48:517][964]LogModuleManager: Shutting down and abandoning module MovieScene (608)
+[2022.08.13-07.40.48:517][964]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (606)
+[2022.08.13-07.40.48:517][964]LogModuleManager: Shutting down and abandoning module LauncherPlatform (604)
+[2022.08.13-07.40.48:517][964]LogModuleManager: Shutting down and abandoning module AnalyticsET (602)
+[2022.08.13-07.40.48:517][964]LogModuleManager: Shutting down and abandoning module PortalServices (600)
+[2022.08.13-07.40.48:517][964]LogModuleManager: Shutting down and abandoning module PortalRpc (598)
+[2022.08.13-07.40.48:517][964]LogModuleManager: Shutting down and abandoning module MessagingRpc (596)
+[2022.08.13-07.40.48:517][964]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (594)
+[2022.08.13-07.40.48:517][964]LogModuleManager: Shutting down and abandoning module AudioMixerCore (593)
+[2022.08.13-07.40.48:517][964]LogModuleManager: Shutting down and abandoning module AIModule (590)
+[2022.08.13-07.40.48:517][964]LogModuleManager: Shutting down and abandoning module GameplayDebugger (589)
+[2022.08.13-07.40.48:517][964]LogModuleManager: Shutting down and abandoning module AITestSuite (587)
+[2022.08.13-07.40.48:517][964]LogModuleManager: Shutting down and abandoning module NavigationSystem (585)
+[2022.08.13-07.40.48:517][964]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (582)
+[2022.08.13-07.40.48:522][964]LogModuleManager: Shutting down and abandoning module ProfilerService (580)
+[2022.08.13-07.40.48:685][964]LogModuleManager: Shutting down and abandoning module TaskGraph (578)
+[2022.08.13-07.40.48:686][964]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (576)
+[2022.08.13-07.40.48:686][964]LogModuleManager: Shutting down and abandoning module MegascansPlugin (574)
+[2022.08.13-07.40.48:686][964]LogModuleManager: Shutting down and abandoning module OculusEditor (572)
+[2022.08.13-07.40.48:688][964]LogModuleManager: Shutting down and abandoning module OculusInput (570)
+[2022.08.13-07.40.48:688][964]LogModuleManager: Shutting down and abandoning module SQLiteSupport (568)
+[2022.08.13-07.40.48:688][964]LogModuleManager: Shutting down and abandoning module DatabaseSupport (566)
+[2022.08.13-07.40.48:688][964]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (564)
+[2022.08.13-07.40.48:688][964]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (562)
+[2022.08.13-07.40.48:688][964]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (560)
+[2022.08.13-07.40.48:688][964]LogModuleManager: Shutting down and abandoning module CollectionManager (559)
+[2022.08.13-07.40.48:688][964]LogModuleManager: Shutting down and abandoning module SynthesisEditor (556)
+[2022.08.13-07.40.48:688][964]LogModuleManager: Shutting down and abandoning module Synthesis (554)
+[2022.08.13-07.40.48:688][964]LogModuleManager: Shutting down and abandoning module ScreenshotTools (552)
+[2022.08.13-07.40.48:688][964]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (550)
+[2022.08.13-07.40.48:688][964]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (548)
+[2022.08.13-07.40.48:688][964]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (546)
+[2022.08.13-07.40.48:688][964]LogModuleManager: Shutting down and abandoning module TemplateSequence (544)
+[2022.08.13-07.40.48:688][964]LogModuleManager: Shutting down and abandoning module GooglePAD (542)
+[2022.08.13-07.40.48:688][964]LogModuleManager: Shutting down and abandoning module EditableMesh (540)
+[2022.08.13-07.40.48:688][964]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (538)
+[2022.08.13-07.40.48:688][964]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (536)
+[2022.08.13-07.40.48:688][964]LogModuleManager: Shutting down and abandoning module CableComponent (534)
+[2022.08.13-07.40.48:688][964]LogModuleManager: Shutting down and abandoning module AudioCapture (532)
+[2022.08.13-07.40.48:688][964]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (531)
+[2022.08.13-07.40.48:688][964]LogModuleManager: Shutting down and abandoning module AssetTags (528)
+[2022.08.13-07.40.48:689][964]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (526)
+[2022.08.13-07.40.48:689][964]LogModuleManager: Shutting down and abandoning module AppleImageUtils (524)
+[2022.08.13-07.40.48:689][964]LogModuleManager: Shutting down and abandoning module AndroidPermission (522)
+[2022.08.13-07.40.48:689][964]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (520)
+[2022.08.13-07.40.48:689][964]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (518)
+[2022.08.13-07.40.48:689][964]LogModuleManager: Shutting down and abandoning module MediaCompositing (516)
+[2022.08.13-07.40.48:689][964]LogModuleManager: Shutting down and abandoning module ImgMedia (514)
+[2022.08.13-07.40.48:689][964]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (512)
+[2022.08.13-07.40.48:689][964]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (510)
+[2022.08.13-07.40.48:689][964]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (508)
+[2022.08.13-07.40.48:689][964]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (506)
+[2022.08.13-07.40.48:689][964]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (504)
+[2022.08.13-07.40.48:689][964]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (502)
+[2022.08.13-07.40.48:689][964]LogModuleManager: Shutting down and abandoning module MotoSynth (500)
+[2022.08.13-07.40.48:689][964]LogModuleManager: Shutting down and abandoning module MeshConversion (498)
+[2022.08.13-07.40.48:689][964]LogModuleManager: Shutting down and abandoning module DynamicMesh (496)
+[2022.08.13-07.40.48:690][964]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (494)
+[2022.08.13-07.40.48:690][964]LogModuleManager: Shutting down and abandoning module GeometricObjects (492)
+[2022.08.13-07.40.48:691][964]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (490)
+[2022.08.13-07.40.48:691][964]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (489)
+[2022.08.13-07.40.48:691][964]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (486)
+[2022.08.13-07.40.48:691][964]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (484)
+[2022.08.13-07.40.48:691][964]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (482)
+[2022.08.13-07.40.48:691][964]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (480)
+[2022.08.13-07.40.48:691][964]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (478)
+[2022.08.13-07.40.48:691][964]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (476)
+[2022.08.13-07.40.48:691][964]LogModuleManager: Shutting down and abandoning module ChaosNiagara (474)
+[2022.08.13-07.40.48:691][964]LogModuleManager: Shutting down and abandoning module FractureEditor (472)
+[2022.08.13-07.40.48:691][964]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (471)
+[2022.08.13-07.40.48:691][964]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (468)
+[2022.08.13-07.40.48:693][964]LogModuleManager: Shutting down and abandoning module BackChannel (466)
+[2022.08.13-07.40.48:693][964]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (464)
+[2022.08.13-07.40.48:693][964]LogModuleManager: Shutting down and abandoning module AutomationUtils (462)
+[2022.08.13-07.40.48:693][964]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (460)
+[2022.08.13-07.40.48:694][964]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (458)
+[2022.08.13-07.40.48:694][964]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (456)
+[2022.08.13-07.40.48:694][964]LogModuleManager: Shutting down and abandoning module AlembicImporter (454)
+[2022.08.13-07.40.48:694][964]LogModuleManager: Shutting down and abandoning module AlembicLibrary (453)
+[2022.08.13-07.40.48:694][964]LogModuleManager: Shutting down and abandoning module GeometryCache (452)
+[2022.08.13-07.40.48:694][964]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (451)
+[2022.08.13-07.40.48:694][964]LogModuleManager: Shutting down and abandoning module PluginBrowser (446)
+[2022.08.13-07.40.48:697][964]LogModuleManager: Shutting down and abandoning module CurveEditorTools (444)
+[2022.08.13-07.40.48:697][964]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (442)
+[2022.08.13-07.40.48:697][964]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (440)
+[2022.08.13-07.40.48:697][964]LogModuleManager: Shutting down and abandoning module CryptoKeys (438)
+[2022.08.13-07.40.48:697][964]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (436)
+[2022.08.13-07.40.48:697][964]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (434)
+[2022.08.13-07.40.48:698][964]LogModuleManager: Shutting down and abandoning module UObjectPlugin (432)
+[2022.08.13-07.40.48:698][964]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (430)
+[2022.08.13-07.40.48:698][964]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (428)
+[2022.08.13-07.40.48:698][964]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (426)
+[2022.08.13-07.40.48:698][964]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (424)
+[2022.08.13-07.40.48:699][964]LogModuleManager: Shutting down and abandoning module PluginUtils (422)
+[2022.08.13-07.40.48:699][964]LogModuleManager: Shutting down and abandoning module GitSourceControl (420)
+[2022.08.13-07.40.48:699][964]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (418)
+[2022.08.13-07.40.48:700][964]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (416)
+[2022.08.13-07.40.48:701][964]LogModuleManager: Shutting down and abandoning module SourceControl (415)
+[2022.08.13-07.40.48:701][964]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (412)
+[2022.08.13-07.40.48:701][964]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (410)
+[2022.08.13-07.40.48:702][964]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (408)
+[2022.08.13-07.40.48:702][964]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (406)
+[2022.08.13-07.40.48:702][964]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (404)
+[2022.08.13-07.40.48:702][964]LogModuleManager: Shutting down and abandoning module Paper2DEditor (402)
+[2022.08.13-07.40.48:703][964]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (400)
+[2022.08.13-07.40.48:703][964]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (398)
+[2022.08.13-07.40.48:704][964]LogModuleManager: Shutting down and abandoning module SQLiteCore (396)
+[2022.08.13-07.40.48:704][964]LogModuleManager: Shutting down and abandoning module SoundFields (394)
+[2022.08.13-07.40.48:704][964]LogModuleManager: Shutting down and abandoning module SignificanceManager (392)
+[2022.08.13-07.40.48:704][964]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (390)
+[2022.08.13-07.40.48:704][964]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (388)
+[2022.08.13-07.40.48:705][964]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (386)
+[2022.08.13-07.40.48:705][964]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (382)
+[2022.08.13-07.40.48:705][964]LogModuleManager: Shutting down and abandoning module ActorSequence (380)
+[2022.08.13-07.40.48:705][964]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (378)
+[2022.08.13-07.40.48:705][964]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (376)
+[2022.08.13-07.40.48:705][964]LogModuleManager: Shutting down and abandoning module UdpMessaging (374)
+[2022.08.13-07.40.48:806][964]LogModuleManager: Shutting down and abandoning module TcpMessaging (372)
+[2022.08.13-07.40.48:907][964]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (370)
+[2022.08.13-07.40.48:907][964]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (368)
+[2022.08.13-07.40.48:907][964]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (366)
+[2022.08.13-07.40.48:907][964]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (364)
+[2022.08.13-07.40.48:907][964]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (362)
+[2022.08.13-07.40.48:907][964]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.08.13-07.40.48:907][964]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (360)
+[2022.08.13-07.40.48:907][964]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (358)
+[2022.08.13-07.40.48:907][964]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (356)
+[2022.08.13-07.40.48:907][964]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (354)
+[2022.08.13-07.40.48:907][964]LogModuleManager: Shutting down and abandoning module MagicLeapController (352)
+[2022.08.13-07.40.48:907][964]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.08.13-07.40.48:907][964]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (350)
+[2022.08.13-07.40.48:907][964]LogModuleManager: Shutting down and abandoning module MagicLeapAR (348)
+[2022.08.13-07.40.48:907][964]LogModuleManager: Shutting down and abandoning module AugmentedReality (347)
+[2022.08.13-07.40.48:908][964]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (344)
+[2022.08.13-07.40.48:908][964]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (342)
+[2022.08.13-07.40.48:908][964]LogModuleManager: Shutting down and abandoning module Niagara (340)
+[2022.08.13-07.40.48:908][964]LogModuleManager: Shutting down and abandoning module SignalProcessing (339)
+[2022.08.13-07.40.48:908][964]LogModuleManager: Shutting down and abandoning module NiagaraEditor (337)
+[2022.08.13-07.40.48:909][964]LogModuleManager: Shutting down and abandoning module NiagaraCore (334)
+[2022.08.13-07.40.48:909][964]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (332)
+[2022.08.13-07.40.48:910][964]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (330)
+[2022.08.13-07.40.48:910][964]LogModuleManager: Shutting down and abandoning module FacialAnimation (328)
+[2022.08.13-07.40.48:910][964]LogModuleManager: Shutting down and abandoning module DataValidation (326)
+[2022.08.13-07.40.48:910][964]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (324)
+[2022.08.13-07.40.48:910][964]LogModuleManager: Shutting down and abandoning module LevelEditor (323)
+[2022.08.13-07.40.48:912][964]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (322)
+[2022.08.13-07.40.48:912][964]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (320)
+[2022.08.13-07.40.48:912][964]LogModuleManager: Shutting down and abandoning module MainFrame (318)
+[2022.08.13-07.40.48:912][964]LogModuleManager: Shutting down and abandoning module HotReload (317)
+[2022.08.13-07.40.48:913][964]LogModuleManager: Shutting down and abandoning module ToolMenus (313)
+[2022.08.13-07.40.48:913][964]LogModuleManager: Shutting down and abandoning module ContentBrowser (311)
+[2022.08.13-07.40.48:913][964]LogModuleManager: Shutting down and abandoning module ContentBrowserData (310)
+[2022.08.13-07.40.48:913][964]LogModuleManager: Shutting down and abandoning module TreeMap (307)
+[2022.08.13-07.40.48:913][964]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (304)
+[2022.08.13-07.40.48:913][964]LogModuleManager: Shutting down and abandoning module AnimationSharing (302)
+[2022.08.13-07.40.48:913][964]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (300)
+[2022.08.13-07.40.48:913][964]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (298)
+[2022.08.13-07.40.48:914][964]LogModuleManager: Shutting down and abandoning module Paper2D (296)
+[2022.08.13-07.40.48:914][964]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (294)
+[2022.08.13-07.40.49:004][964]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (292)
+[2022.08.13-07.40.49:004][964]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (290)
+[2022.08.13-07.40.49:004][964]LogModuleManager: Shutting down and abandoning module PacketHandler (288)
+[2022.08.13-07.40.49:004][964]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (286)
+[2022.08.13-07.40.49:004][964]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (284)
+[2022.08.13-07.40.49:004][964]LogModuleManager: Shutting down and abandoning module MediaAssets (282)
+[2022.08.13-07.40.49:004][964]LogModuleManager: Shutting down and abandoning module Overlay (280)
+[2022.08.13-07.40.49:004][964]LogModuleManager: Shutting down and abandoning module OverlayEditor (279)
+[2022.08.13-07.40.49:004][964]LogModuleManager: Shutting down and abandoning module VREditor (276)
+[2022.08.13-07.40.49:005][964]LogModuleManager: Shutting down and abandoning module StringTableEditor (274)
+[2022.08.13-07.40.49:005][964]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (272)
+[2022.08.13-07.40.49:005][964]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (270)
+[2022.08.13-07.40.49:006][964]LogModuleManager: Shutting down and abandoning module FunctionalTesting (268)
+[2022.08.13-07.40.49:006][964]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (266)
+[2022.08.13-07.40.49:007][964]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (265)
+[2022.08.13-07.40.49:007][964]LogModuleManager: Shutting down and abandoning module UMG (262)
+[2022.08.13-07.40.49:007][964]LogModuleManager: Shutting down and abandoning module UMGEditor (261)
+[2022.08.13-07.40.49:008][964]LogModuleManager: Shutting down and abandoning module MessageLog (259)
+[2022.08.13-07.40.49:008][964]LogModuleManager: Shutting down and abandoning module SlateReflector (254)
+[2022.08.13-07.40.49:011][964]LogModuleManager: Shutting down and abandoning module Slate (252)
+[2022.08.13-07.40.49:011][964]LogModuleManager: Shutting down and abandoning module SlateCore (250)
+[2022.08.13-07.40.49:012][964]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (248)
+[2022.08.13-07.40.49:012][964]LogModuleManager: Shutting down and abandoning module UnrealEd (246)
+[2022.08.13-07.40.49:012][964]LogModuleManager: Shutting down and abandoning module MRMesh (244)
+[2022.08.13-07.40.49:012][964]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (242)
+[2022.08.13-07.40.49:012][964]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (240)
+[2022.08.13-07.40.49:012][964]LogModuleManager: Shutting down and abandoning module XAudio2 (238)
+[2022.08.13-07.40.49:012][964]LogModuleManager: Shutting down and abandoning module Networking (236)
+[2022.08.13-07.40.49:012][964]LogModuleManager: Shutting down and abandoning module Core (234)
+[2022.08.13-07.40.49:012][964]LogModuleManager: Shutting down and abandoning module MaterialEditor (232)
+[2022.08.13-07.40.49:012][964]LogModuleManager: Shutting down and abandoning module MovieSceneTools (230)
+[2022.08.13-07.40.49:013][964]LogModuleManager: Shutting down and abandoning module CurveEditor (229)
+[2022.08.13-07.40.49:015][964]LogModuleManager: Shutting down and abandoning module Sequencer (227)
+[2022.08.13-07.40.49:016][964]LogModuleManager: Shutting down and abandoning module EditorStyle (226)
+[2022.08.13-07.40.49:018][964]LogModuleManager: Shutting down and abandoning module KismetCompiler (222)
+[2022.08.13-07.40.49:018][964]LogModuleManager: Shutting down and abandoning module MeshBuilder (220)
+[2022.08.13-07.40.49:018][964]LogModuleManager: Shutting down and abandoning module MeshUtilities (218)
+[2022.08.13-07.40.49:019][964]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (217)
+[2022.08.13-07.40.49:019][964]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (216)
+[2022.08.13-07.40.49:019][964]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (215)
+[2022.08.13-07.40.49:019][964]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (213)
+[2022.08.13-07.40.49:019][964]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (211)
+[2022.08.13-07.40.49:020][964]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (209)
+[2022.08.13-07.40.49:020][964]LogModuleManager: Shutting down and abandoning module MaterialBaking (205)
+[2022.08.13-07.40.49:021][964]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (200)
+[2022.08.13-07.40.49:021][964]LogModuleManager: Shutting down and abandoning module DerivedDataCache (198)
+[2022.08.13-07.40.49:021][964]LogModuleManager: Shutting down and abandoning module TargetPlatform (196)
+[2022.08.13-07.40.49:021][964]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (195)
+[2022.08.13-07.40.49:022][964]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (193)
+[2022.08.13-07.40.49:022][964]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (191)
+[2022.08.13-07.40.49:022][964]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (189)
+[2022.08.13-07.40.49:023][964]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (187)
+[2022.08.13-07.40.49:023][964]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (185)
+[2022.08.13-07.40.49:023][964]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (183)
+[2022.08.13-07.40.49:023][964]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (181)
+[2022.08.13-07.40.49:023][964]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (179)
+[2022.08.13-07.40.49:023][964]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (177)
+[2022.08.13-07.40.49:023][964]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (175)
+[2022.08.13-07.40.49:023][964]LogModuleManager: Shutting down and abandoning module ImageWrapper (174)
+[2022.08.13-07.40.49:023][964]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (171)
+[2022.08.13-07.40.49:023][964]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (169)
+[2022.08.13-07.40.49:023][964]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (167)
+[2022.08.13-07.40.49:023][964]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (165)
+[2022.08.13-07.40.49:023][964]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (163)
+[2022.08.13-07.40.49:023][964]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (161)
+[2022.08.13-07.40.49:024][964]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (159)
+[2022.08.13-07.40.49:024][964]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (157)
+[2022.08.13-07.40.49:029][964]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (155)
+[2022.08.13-07.40.49:029][964]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (153)
+[2022.08.13-07.40.49:029][964]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (151)
+[2022.08.13-07.40.49:029][964]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (149)
+[2022.08.13-07.40.49:029][964]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (147)
+[2022.08.13-07.40.49:037][964]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (145)
+[2022.08.13-07.40.49:037][964]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (143)
+[2022.08.13-07.40.49:037][964]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (141)
+[2022.08.13-07.40.49:037][964]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (139)
+[2022.08.13-07.40.49:037][964]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (137)
+[2022.08.13-07.40.49:037][964]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (135)
+[2022.08.13-07.40.49:037][964]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (133)
+[2022.08.13-07.40.49:037][964]LogModuleManager: Shutting down and abandoning module Messaging (131)
+[2022.08.13-07.40.49:037][964]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (129)
+[2022.08.13-07.40.49:040][964]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (127)
+[2022.08.13-07.40.49:054][964]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (125)
+[2022.08.13-07.40.49:054][964]LogModuleManager: Shutting down and abandoning module InputCore (122)
+[2022.08.13-07.40.49:054][964]LogModuleManager: Shutting down and abandoning module Settings (120)
+[2022.08.13-07.40.49:054][964]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (118)
+[2022.08.13-07.40.49:055][964]LogModuleManager: Shutting down and abandoning module PhysXCooking (116)
+[2022.08.13-07.40.49:055][964]LogModuleManager: Shutting down and abandoning module Chaos (114)
+[2022.08.13-07.40.49:055][964]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (112)
+[2022.08.13-07.40.49:055][964]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (111)
+[2022.08.13-07.40.49:055][964]LogModuleManager: Shutting down and abandoning module AVEncoder (110)
+[2022.08.13-07.40.49:056][964]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (106)
+[2022.08.13-07.40.49:056][964]LogModuleManager: Shutting down and abandoning module SteamVRInput (104)
+[2022.08.13-07.40.49:056][964]LogModuleManager: Shutting down and abandoning module SteamVR (102)
+[2022.08.13-07.40.49:056][964]LogHMD: Freeing OpenVRDLLHandle.
+[2022.08.13-07.40.49:056][964]LogModuleManager: Shutting down and abandoning module OculusHMD (100)
+[2022.08.13-07.40.49:058][964]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2022.08.13-07.40.49:058][964]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2022.08.13-07.40.49:058][964]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (94)
+[2022.08.13-07.40.49:058][964]LogModuleManager: Shutting down and abandoning module WmfMedia (92)
+[2022.08.13-07.40.49:060][964]LogModuleManager: Shutting down and abandoning module Media (91)
+[2022.08.13-07.40.49:061][964]LogModuleManager: Shutting down and abandoning module MediaInfo (90)
+[2022.08.13-07.40.49:061][964]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (86)
+[2022.08.13-07.40.49:061][964]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (82)
+[2022.08.13-07.40.49:062][964]LogModuleManager: Shutting down and abandoning module XMPP (77)
+[2022.08.13-07.40.49:062][964]LogModuleManager: Shutting down and abandoning module WebSockets (76)
+[2022.08.13-07.40.49:079][964]LogModuleManager: Shutting down and abandoning module HTTP (73)
+[2022.08.13-07.40.49:079][964]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.08.13-07.40.49:080][964]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA64D3A6C-47BD-1EDB-AC24-82A7FBCB1834%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=053b4b83417433c5b9252abceafa6f58%7Ceae7cab4b093479782ecf0177fe652b8%7Ce4fced81-4f04-4212-8ee8-eb3adff8782b&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.08.13-07.40.49:080][964]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2022.08.13-07.40.49:089][964]LogModuleManager: Shutting down and abandoning module SSL (72)
+[2022.08.13-07.40.49:090][964]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (68)
+[2022.08.13-07.40.49:090][964]LogModuleManager: Shutting down and abandoning module MLSDK (66)
+[2022.08.13-07.40.49:090][964]LogModuleManager: Shutting down and abandoning module MagicLeap (64)
+[2022.08.13-07.40.49:090][964]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (62)
+[2022.08.13-07.40.49:091][964]LogModuleManager: Shutting down and abandoning module NiagaraShader (60)
+[2022.08.13-07.40.49:091][964]LogModuleManager: Shutting down and abandoning module ChaosCloth (58)
+[2022.08.13-07.40.49:091][964]LogModuleManager: Shutting down and abandoning module VariantManagerContent (56)
+[2022.08.13-07.40.49:091][964]LogModuleManager: Shutting down and abandoning module DatasmithContent (54)
+[2022.08.13-07.40.49:091][964]LogModuleManager: Shutting down and abandoning module AISupportModule (52)
+[2022.08.13-07.40.49:091][964]LogModuleManager: Shutting down and abandoning module DesktopPlatform (50)
+[2022.08.13-07.40.49:092][964]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (48)
+[2022.08.13-07.40.49:092][964]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (46)
+[2022.08.13-07.40.49:092][964]LogModuleManager: Shutting down and abandoning module PlatformCrypto (44)
+[2022.08.13-07.40.49:092][964]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (42)
+[2022.08.13-07.40.49:092][964]LogModuleManager: Shutting down and abandoning module XGEController (40)
+[2022.08.13-07.40.49:092][964]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2022.08.13-07.40.49:092][964]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2022.08.13-07.40.49:093][964]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2022.08.13-07.40.49:093][964]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2022.08.13-07.40.49:093][964]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2022.08.13-07.40.49:093][964]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2022.08.13-07.40.49:093][964]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2022.08.13-07.40.49:101][964]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2022.08.13-07.40.49:102][964]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2022.08.13-07.40.49:102][964]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.08.13-07.40.49:102][964]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.08.13-07.40.49:102][964]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.08.13-07.40.49:102][964]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.08.13-07.40.49:102][964]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.08.13-07.40.49:102][964]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.08.13-07.40.49:102][964]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.08.13-07.40.49:102][964]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.08.13-07.40.49:102][964]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.08.13-07.40.49:102][964]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.08.13-07.40.49:102][964]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.08.13-07.40.49:141][964]LogD3D11RHI: Shutdown
+[2022.08.13-07.40.49:141][964]LogD3D11RHI: CleanupD3DDevice
+[2022.08.13-07.40.49:166][964]LogExit: Exiting.
+[2022.08.13-07.40.49:173][964]Log file closed, 08/13/22 00:40:49
