@@ -403,15 +403,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "B377F2C466685D8337499DEB2ADC1465F3B5A0F1",
-			"Assets": [
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/StarterContent/Materials/M_Glass.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "1F50C05C09A2E83257010B93662F36A1D7586D7B",
 			"Assets": [
 				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/StarterContent/Props/Materials/M_Frame.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B377F2C466685D8337499DEB2ADC1465F3B5A0F1",
+			"Assets": [
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/StarterContent/Materials/M_Glass.uasset"
 			]
 		},
 		{
@@ -692,24 +692,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "EAB0B97F3D6BF314148942617569E6D069DB41B6",
-			"Assets": [
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/StarterContent/Props/Materials/M_TableRound.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "A117C7B87E28982B2B7748403CF78CB2A469DB47",
-			"Assets": [
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/StarterContent/Materials/M_Wood_Pine.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "05CA42638EE90D304218AEB1B7B87783A9160FCC",
-			"Assets": [
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/StarterContent/Props/Materials/M_Chair.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "5EBD21CA1F39FA1FA02DEF349FEDA14BF73B3CE5",
 			"Assets": [
 				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
@@ -725,6 +707,24 @@
 			"ShaderMapHash": "FB2D21D70E35E4BEE0A80F9ABD2AA162C2725DC8",
 			"Assets": [
 				"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EAB0B97F3D6BF314148942617569E6D069DB41B6",
+			"Assets": [
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A117C7B87E28982B2B7748403CF78CB2A469DB47",
+			"Assets": [
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "05CA42638EE90D304218AEB1B7B87783A9160FCC",
+			"Assets": [
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/StarterContent/Props/Materials/M_Chair.uasset"
 			]
 		},
 		{
@@ -785,6 +785,18 @@
 		{
 			"ShaderMapHash": "AD3058810825BB855176512149010DB9967A8631",
 			"Assets": [
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/ZWornWood1.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/ZWoodWorn_ncl1_1.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/ZWoodWorn1_ncl1_1.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/ZWoodWorn1.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/ZWoodWorn.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/zTV.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/ZMarble1.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/ZGunMetal1.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/ZGunMEtal.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/ZEndtable.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/ZCounter1.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/ZCounter.uasset",
 				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/ZCloset.uasset",
 				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/ZBrownWood1_ncl1_1.uasset",
 				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/ZBrownWood1.uasset",
@@ -831,27 +843,7 @@
 				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/LightingFramesTEX.uasset",
 				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/Kitchen_SinkCounterTexture.uasset",
 				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/Kitchen_SingleCab_Texture.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/Kitchen_OvenTexture.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/Kitchen_MicrowaveTexture.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/Kitchen_fridge_texture.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/Kitchen_DoubleCabTexture1.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/Kitchen_CouchTexture.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/Kitchen_CouchPillow_texture.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/Kitchen_ComfyChairTexture.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/Kitchen_CoffeeTableTexture.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/Kitchen_CarpetTexture.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/ZWornWood1.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/ZWoodWorn_ncl1_1.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/ZWoodWorn1_ncl1_1.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/ZWoodWorn1.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/ZWoodWorn.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/zTV.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/ZMarble1.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/ZGunMetal1.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/ZGunMEtal.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/ZEndtable.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/ZCounter1.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/ZCounter.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/Bedroom_ComfyChairTexture.uasset",
 				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/Bedroom_CarpetTexture.uasset",
 				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/Bedroom_BottomPart_NighStandTexture.uasset",
 				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/Bedroom_BigShelfTexture.uasset",
@@ -880,17 +872,15 @@
 				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/AnnesRoom_CoffeeTable_TEX.uasset",
 				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/AnnesRoom_Cabinet_TEX.uasset",
 				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/AnnesRoom_Bedframe_TEX.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/AnnesRoom_BathroomSink_TEX.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface99.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface98.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface97.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface96.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface95.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface94.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface93.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface92.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface91.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface9.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/Kitchen_OvenTexture.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/Kitchen_MicrowaveTexture.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/Kitchen_fridge_texture.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/Kitchen_DoubleCabTexture1.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/Kitchen_CouchTexture.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/Kitchen_CouchPillow_texture.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/Kitchen_ComfyChairTexture.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/Kitchen_CoffeeTableTexture.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/Kitchen_CarpetTexture.uasset",
 				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/Kitchen_barStool_Texture.uasset",
 				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/Kitchen_BarCounterTexture.uasset",
 				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/KitchenSink_SinkCabTexture.uasset",
@@ -925,7 +915,17 @@
 				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/Bedroom_StandLampTexture.uasset",
 				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/Bedroom_DumbellTexture.uasset",
 				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/Bedroom_DeskTexture.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/Bedroom_ComfyChairTexture.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/AnnesRoom_BathroomSink_TEX.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface99.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface98.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface97.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface96.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface95.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface94.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface93.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface92.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface91.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface9.uasset",
 				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface84.uasset",
 				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface65.uasset",
 				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface64.uasset",
@@ -976,16 +976,68 @@
 			]
 		},
 		{
+			"ShaderMapHash": "3F6FD9B79E8E37EC7F808BD713E924CA67576DD2",
+			"Assets": [
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/ZWindowSide1.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/WindowUp1.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "9DAA98E6A99506D4FAAB649690916BAEBDB44A29",
+			"Assets": [
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/ZSteelMetal1_ncl1_1.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/ZSteelMetal1.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/ZHandle_ncl1_3.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/ZHandle_ncl1_2.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/ZHandle1_ncl1_1.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/ZHandle1.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/ZHandle.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/Sink1.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/Sink.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/pasted__ZHandle1.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/Kitchen_SingleCab_Texture2.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/Bathroom_SinkFaucetTexture.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/Bathroom_BathFaucetTexture.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/AnnesRoom_Metal_TEX.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/CocktailStrainer_TEX.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/BrushedMetal_TEX.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/BlackMetal.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface90.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface89.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface88.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface87.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface55.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface53.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface133.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface111.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface110.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface109.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "FD82EC4BCD28E67BD87D22382F8E285ED220FF64",
+			"Assets": [
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/ZMarble_Porcelain.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/ZMarble.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "798BFE186821900AF1C864D0671FB942EC1DE55C",
+			"Assets": [
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/ZHandle_ncl1_1.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "DA59E3F9447EC65312D6D854FE96C3EC75CF2113",
 			"Assets": [
 				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/YogaMat.uasset",
 				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/toilet1.uasset",
 				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/PlasticBins.uasset",
 				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/lambert1.uasset",
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/Bedroom_DeskChair_BottomPart_Texture.uasset",
 				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/BedroomScreenTexture.uasset",
 				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/bathtub1.uasset",
 				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/Bedroom_DeskChair_TopPart_Texture.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/Bedroom_DeskChair_BottomPart_Texture.uasset",
 				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface7.uasset",
 				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface61.uasset",
 				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface45.uasset",
@@ -999,13 +1051,6 @@
 				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface28.uasset",
 				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface26.uasset",
 				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface16.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "3F6FD9B79E8E37EC7F808BD713E924CA67576DD2",
-			"Assets": [
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/WindowUp1.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/ZWindowSide1.uasset"
 			]
 		},
 		{
@@ -1031,51 +1076,6 @@
 				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/TableStool.uasset",
 				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/pasted__TableStool2.uasset",
 				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/pasted__TableStool1.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "9DAA98E6A99506D4FAAB649690916BAEBDB44A29",
-			"Assets": [
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/Sink1.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/Sink.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/pasted__ZHandle1.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/Kitchen_SingleCab_Texture2.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/ZSteelMetal1_ncl1_1.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/ZSteelMetal1.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/ZHandle_ncl1_3.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/ZHandle_ncl1_2.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/ZHandle1_ncl1_1.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/ZHandle1.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/ZHandle.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/Bathroom_SinkFaucetTexture.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/Bathroom_BathFaucetTexture.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/AnnesRoom_Metal_TEX.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface90.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface89.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface88.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface87.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/CocktailStrainer_TEX.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/BrushedMetal_TEX.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/BlackMetal.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface55.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface53.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface133.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface111.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface110.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/aiStandardSurface109.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "FD82EC4BCD28E67BD87D22382F8E285ED220FF64",
-			"Assets": [
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/ZMarble_Porcelain.uasset",
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/ZMarble.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "798BFE186821900AF1C864D0671FB942EC1DE55C",
-			"Assets": [
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Maps/FinalMap/ZHandle_ncl1_1.uasset"
 			]
 		},
 		{
@@ -1112,12 +1112,6 @@
 			"ShaderMapHash": "14CE13A45B418615F4C91002F447022392497C95",
 			"Assets": [
 				"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "56AF93D3C755EBF960CBCB278AB41708E0562D72",
-			"Assets": [
-				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Blueprints/aiMAT.uasset"
 			]
 		},
 		{
@@ -1178,6 +1172,12 @@
 			"ShaderMapHash": "D944EEA2302ACCECDA96F730945B315BAC1AC457",
 			"Assets": [
 				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "56AF93D3C755EBF960CBCB278AB41708E0562D72",
+			"Assets": [
+				"../../../../../../Users/Admin/Desktop/LD2/LevelDesign2/Content/FirstPersonBP/Blueprints/aiMAT.uasset"
 			]
 		},
 		{
